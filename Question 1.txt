@@ -1,0 +1,28 @@
+Question 1)
+
+context: Annapurna stores runs 12 supermarkets. every night, each store's billing system writes out that day's sales lines to a shared folder. Head office has no data team an analyst opens the files in a spreadsheet, one month at a time and types the totals into a slide.
+Last week the CFO asked for October revenue and was given three different figures by three different people all working from the same folder. in the same meeting the category manager asked what a particular biscuit pack slod for in march, and the spreadsheet answered with the price on the shelf today.
+the cfo'S instruction to you in full:
+Build me something where October is October. I want to slice revenue by store, by product category, by day of the week and by month, and I want the same number every time I ask I also want last march's price when I ask abt last march.in do not care what software you use . i do care that the analyst can stop opening files by hand
+
+what we are given is:
+sales/-rougly 600 files, one per store per day.mixed csv and parquet
+master.sql-to be  loaded into postgre sql
+finance_monthly.csv-the 12 monthly revenue figures the finance team has already closed and signed off. this is your reconciliation target for part(f)
+billing_notes.md-whatever the billing vendor left behind.
+
+Tasks:
+a) stand the platform up and land the data : bring up an object store a relation database and an analytical query engine . load the daily file in to the object store . organised so that a query about one store in one month dose not have to look at other eleven stores or the other eleven months . say what the organisation you choose then show  it working : for one such query , how many files and how many bytes could be engine possibly have to  open under layout , compared woth putting every thing In the folder ??/
+
+b) make it safe to run twice : some days appear in the folder more than once - the billing system re send when a store a report a problem . build the loading step so the running it therr time in a row give the same result as running it once . prove it : run it three times , record the row count and a checksum after each run and include the output
+
+c) design the tables behind the dash board : the dash board must slice revenue by store by the product category ; by day of the week and by month , quickly  . design and build the tables that make the possible without  repeating each stores name and address on every on millions of the sales lines . note two things about source data before you start not every line is a sales , and the product code that was retired has since ben reissued to a different product so the code alone dose not identify what was sold 
+
+d)Make March use march's prices. price CHANGE. USING  THE revision table arrange things so that a report for march 2024 uses the prices that applied in march 2024 while a report for last month uses last months from the same query with no change to the code between the two demonstrate by running one query twice, differing only in the reporting period.
+
+e)Query across the two systems. the sales data is the object store; the stores, products and categories are in PostgreSQL. write one query that joins both without first copying either side into the others. then tell us using evidence from the engine rather than from documentation, which parts of that query were evaluated where.
+
+f)Reconcile. compare your monthly revenue against finance_monthly.csv.you will not match every month that differs, say whether the cause is something wrong with the source data, a different in how the two of you define revenue, or a bug in your pipeline-and say which of the three you would take back to the finance team.
+
+
+one warning.it is easy to produce an October figure that is roughly twice the correct one. If your revenue looks surprisingly healthy part(c)is where to look before you submit
