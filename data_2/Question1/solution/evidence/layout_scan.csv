@@ -1,2 +1,0 @@
-"layout","query","partition_files","partition_bytes","flat_folder_files","flat_folder_bytes"
-"store_id/business_month Parquet partitions","store_id=S03, business_month=2024-10","1","181859","4457","68706877"

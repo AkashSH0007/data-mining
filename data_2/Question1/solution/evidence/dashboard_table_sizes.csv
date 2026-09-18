@@ -1,6 +1,0 @@
-table_name,rows
-dim_category,14
-dim_date,366
-dim_product,1224
-dim_store,12
-fact_sales,766796
