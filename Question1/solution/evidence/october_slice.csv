@@ -1,0 +1,1177 @@
+store_id,store_name,category_name,day_of_week,business_month,revenue_inr
+S01,Annapurna Jayanagar,Baby Care,Friday,2024-10,164362.02
+S01,Annapurna Jayanagar,Baby Care,Monday,2024-10,104815.48
+S01,Annapurna Jayanagar,Baby Care,Saturday,2024-10,201028.25
+S01,Annapurna Jayanagar,Baby Care,Sunday,2024-10,213620.41
+S01,Annapurna Jayanagar,Baby Care,Thursday,2024-10,134991.36
+S01,Annapurna Jayanagar,Baby Care,Tuesday,2024-10,164807.20
+S01,Annapurna Jayanagar,Baby Care,Wednesday,2024-10,123316.32
+S01,Annapurna Jayanagar,Bakery,Friday,2024-10,20775.21
+S01,Annapurna Jayanagar,Bakery,Monday,2024-10,18459.03
+S01,Annapurna Jayanagar,Bakery,Saturday,2024-10,32838.81
+S01,Annapurna Jayanagar,Bakery,Sunday,2024-10,27773.70
+S01,Annapurna Jayanagar,Bakery,Thursday,2024-10,22043.25
+S01,Annapurna Jayanagar,Bakery,Tuesday,2024-10,18485.90
+S01,Annapurna Jayanagar,Bakery,Wednesday,2024-10,19731.84
+S01,Annapurna Jayanagar,Beverages,Friday,2024-10,47884.18
+S01,Annapurna Jayanagar,Beverages,Monday,2024-10,37608.63
+S01,Annapurna Jayanagar,Beverages,Saturday,2024-10,39714.55
+S01,Annapurna Jayanagar,Beverages,Sunday,2024-10,49371.71
+S01,Annapurna Jayanagar,Beverages,Thursday,2024-10,53371.43
+S01,Annapurna Jayanagar,Beverages,Tuesday,2024-10,26182.35
+S01,Annapurna Jayanagar,Beverages,Wednesday,2024-10,43171.24
+S01,Annapurna Jayanagar,Biscuits & Snacks,Friday,2024-10,13696.60
+S01,Annapurna Jayanagar,Biscuits & Snacks,Monday,2024-10,9650.98
+S01,Annapurna Jayanagar,Biscuits & Snacks,Saturday,2024-10,17444.81
+S01,Annapurna Jayanagar,Biscuits & Snacks,Sunday,2024-10,18001.40
+S01,Annapurna Jayanagar,Biscuits & Snacks,Thursday,2024-10,12416.07
+S01,Annapurna Jayanagar,Biscuits & Snacks,Tuesday,2024-10,13275.68
+S01,Annapurna Jayanagar,Biscuits & Snacks,Wednesday,2024-10,11751.32
+S01,Annapurna Jayanagar,Confectionery,Friday,2024-10,38338.91
+S01,Annapurna Jayanagar,Confectionery,Monday,2024-10,24531.99
+S01,Annapurna Jayanagar,Confectionery,Saturday,2024-10,43193.78
+S01,Annapurna Jayanagar,Confectionery,Sunday,2024-10,35615.10
+S01,Annapurna Jayanagar,Confectionery,Thursday,2024-10,24844.48
+S01,Annapurna Jayanagar,Confectionery,Tuesday,2024-10,28918.58
+S01,Annapurna Jayanagar,Confectionery,Wednesday,2024-10,25196.67
+S01,Annapurna Jayanagar,Dairy,Friday,2024-10,61079.92
+S01,Annapurna Jayanagar,Dairy,Monday,2024-10,55875.00
+S01,Annapurna Jayanagar,Dairy,Saturday,2024-10,70195.65
+S01,Annapurna Jayanagar,Dairy,Sunday,2024-10,92482.59
+S01,Annapurna Jayanagar,Dairy,Thursday,2024-10,44922.47
+S01,Annapurna Jayanagar,Dairy,Tuesday,2024-10,65002.34
+S01,Annapurna Jayanagar,Dairy,Wednesday,2024-10,61655.18
+S01,Annapurna Jayanagar,Edible Oils,Friday,2024-10,148050.44
+S01,Annapurna Jayanagar,Edible Oils,Monday,2024-10,127333.37
+S01,Annapurna Jayanagar,Edible Oils,Saturday,2024-10,184763.36
+S01,Annapurna Jayanagar,Edible Oils,Sunday,2024-10,199998.38
+S01,Annapurna Jayanagar,Edible Oils,Thursday,2024-10,121424.76
+S01,Annapurna Jayanagar,Edible Oils,Tuesday,2024-10,108107.05
+S01,Annapurna Jayanagar,Edible Oils,Wednesday,2024-10,140589.63
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Friday,2024-10,47010.75
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Monday,2024-10,44287.47
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Saturday,2024-10,65220.21
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Sunday,2024-10,66351.10
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Thursday,2024-10,47999.94
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Tuesday,2024-10,55390.28
+S01,Annapurna Jayanagar,Frozen & Ready to Eat,Wednesday,2024-10,54075.07
+S01,Annapurna Jayanagar,Fruits & Vegetables,Friday,2024-10,26178.87
+S01,Annapurna Jayanagar,Fruits & Vegetables,Monday,2024-10,23854.78
+S01,Annapurna Jayanagar,Fruits & Vegetables,Saturday,2024-10,36750.82
+S01,Annapurna Jayanagar,Fruits & Vegetables,Sunday,2024-10,43434.77
+S01,Annapurna Jayanagar,Fruits & Vegetables,Thursday,2024-10,27153.46
+S01,Annapurna Jayanagar,Fruits & Vegetables,Tuesday,2024-10,23286.33
+S01,Annapurna Jayanagar,Fruits & Vegetables,Wednesday,2024-10,28819.36
+S01,Annapurna Jayanagar,Home Care,Friday,2024-10,59367.43
+S01,Annapurna Jayanagar,Home Care,Monday,2024-10,39746.88
+S01,Annapurna Jayanagar,Home Care,Saturday,2024-10,77012.15
+S01,Annapurna Jayanagar,Home Care,Sunday,2024-10,61117.98
+S01,Annapurna Jayanagar,Home Care,Thursday,2024-10,48678.18
+S01,Annapurna Jayanagar,Home Care,Tuesday,2024-10,49991.36
+S01,Annapurna Jayanagar,Home Care,Wednesday,2024-10,44461.73
+S01,Annapurna Jayanagar,Personal Care,Friday,2024-10,61325.97
+S01,Annapurna Jayanagar,Personal Care,Monday,2024-10,41596.31
+S01,Annapurna Jayanagar,Personal Care,Saturday,2024-10,72637.36
+S01,Annapurna Jayanagar,Personal Care,Sunday,2024-10,72033.53
+S01,Annapurna Jayanagar,Personal Care,Thursday,2024-10,69534.86
+S01,Annapurna Jayanagar,Personal Care,Tuesday,2024-10,60908.86
+S01,Annapurna Jayanagar,Personal Care,Wednesday,2024-10,58149.90
+S01,Annapurna Jayanagar,Spices & Masala,Friday,2024-10,28691.53
+S01,Annapurna Jayanagar,Spices & Masala,Monday,2024-10,27111.90
+S01,Annapurna Jayanagar,Spices & Masala,Saturday,2024-10,35471.04
+S01,Annapurna Jayanagar,Spices & Masala,Sunday,2024-10,41619.31
+S01,Annapurna Jayanagar,Spices & Masala,Thursday,2024-10,32150.06
+S01,Annapurna Jayanagar,Spices & Masala,Tuesday,2024-10,26016.74
+S01,Annapurna Jayanagar,Spices & Masala,Wednesday,2024-10,18835.14
+S01,Annapurna Jayanagar,Staples & Grains,Friday,2024-10,181017.51
+S01,Annapurna Jayanagar,Staples & Grains,Monday,2024-10,109283.47
+S01,Annapurna Jayanagar,Staples & Grains,Saturday,2024-10,223964.17
+S01,Annapurna Jayanagar,Staples & Grains,Sunday,2024-10,217643.30
+S01,Annapurna Jayanagar,Staples & Grains,Thursday,2024-10,156165.10
+S01,Annapurna Jayanagar,Staples & Grains,Tuesday,2024-10,140575.38
+S01,Annapurna Jayanagar,Staples & Grains,Wednesday,2024-10,182690.43
+S01,Annapurna Jayanagar,Stationery & General,Friday,2024-10,43714.40
+S01,Annapurna Jayanagar,Stationery & General,Monday,2024-10,38891.96
+S01,Annapurna Jayanagar,Stationery & General,Saturday,2024-10,56129.17
+S01,Annapurna Jayanagar,Stationery & General,Sunday,2024-10,59968.66
+S01,Annapurna Jayanagar,Stationery & General,Thursday,2024-10,37394.12
+S01,Annapurna Jayanagar,Stationery & General,Tuesday,2024-10,37814.30
+S01,Annapurna Jayanagar,Stationery & General,Wednesday,2024-10,35638.06
+S02,Annapurna Koramangala,Baby Care,Friday,2024-10,86502.50
+S02,Annapurna Koramangala,Baby Care,Monday,2024-10,81043.93
+S02,Annapurna Koramangala,Baby Care,Saturday,2024-10,135894.34
+S02,Annapurna Koramangala,Baby Care,Sunday,2024-10,143161.66
+S02,Annapurna Koramangala,Baby Care,Thursday,2024-10,99953.24
+S02,Annapurna Koramangala,Baby Care,Tuesday,2024-10,147558.22
+S02,Annapurna Koramangala,Baby Care,Wednesday,2024-10,125189.65
+S02,Annapurna Koramangala,Bakery,Friday,2024-10,10934.07
+S02,Annapurna Koramangala,Bakery,Monday,2024-10,14528.58
+S02,Annapurna Koramangala,Bakery,Saturday,2024-10,24911.75
+S02,Annapurna Koramangala,Bakery,Sunday,2024-10,25177.96
+S02,Annapurna Koramangala,Bakery,Thursday,2024-10,16675.79
+S02,Annapurna Koramangala,Bakery,Tuesday,2024-10,17535.04
+S02,Annapurna Koramangala,Bakery,Wednesday,2024-10,17348.73
+S02,Annapurna Koramangala,Beverages,Friday,2024-10,23042.45
+S02,Annapurna Koramangala,Beverages,Monday,2024-10,23964.83
+S02,Annapurna Koramangala,Beverages,Saturday,2024-10,43596.33
+S02,Annapurna Koramangala,Beverages,Sunday,2024-10,55348.47
+S02,Annapurna Koramangala,Beverages,Thursday,2024-10,41475.39
+S02,Annapurna Koramangala,Beverages,Tuesday,2024-10,34438.94
+S02,Annapurna Koramangala,Beverages,Wednesday,2024-10,28646.93
+S02,Annapurna Koramangala,Biscuits & Snacks,Friday,2024-10,8940.57
+S02,Annapurna Koramangala,Biscuits & Snacks,Monday,2024-10,7903.34
+S02,Annapurna Koramangala,Biscuits & Snacks,Saturday,2024-10,13234.43
+S02,Annapurna Koramangala,Biscuits & Snacks,Sunday,2024-10,13363.08
+S02,Annapurna Koramangala,Biscuits & Snacks,Thursday,2024-10,10127.66
+S02,Annapurna Koramangala,Biscuits & Snacks,Tuesday,2024-10,11944.31
+S02,Annapurna Koramangala,Biscuits & Snacks,Wednesday,2024-10,9243.34
+S02,Annapurna Koramangala,Confectionery,Friday,2024-10,17215.13
+S02,Annapurna Koramangala,Confectionery,Monday,2024-10,24021.28
+S02,Annapurna Koramangala,Confectionery,Saturday,2024-10,33482.44
+S02,Annapurna Koramangala,Confectionery,Sunday,2024-10,30378.46
+S02,Annapurna Koramangala,Confectionery,Thursday,2024-10,20721.38
+S02,Annapurna Koramangala,Confectionery,Tuesday,2024-10,24143.13
+S02,Annapurna Koramangala,Confectionery,Wednesday,2024-10,27832.09
+S02,Annapurna Koramangala,Dairy,Friday,2024-10,48561.13
+S02,Annapurna Koramangala,Dairy,Monday,2024-10,39552.71
+S02,Annapurna Koramangala,Dairy,Saturday,2024-10,77461.08
+S02,Annapurna Koramangala,Dairy,Sunday,2024-10,74504.32
+S02,Annapurna Koramangala,Dairy,Thursday,2024-10,67347.54
+S02,Annapurna Koramangala,Dairy,Tuesday,2024-10,66650.94
+S02,Annapurna Koramangala,Dairy,Wednesday,2024-10,59336.80
+S02,Annapurna Koramangala,Edible Oils,Friday,2024-10,81886.29
+S02,Annapurna Koramangala,Edible Oils,Monday,2024-10,94997.05
+S02,Annapurna Koramangala,Edible Oils,Saturday,2024-10,148047.92
+S02,Annapurna Koramangala,Edible Oils,Sunday,2024-10,103256.04
+S02,Annapurna Koramangala,Edible Oils,Thursday,2024-10,139188.14
+S02,Annapurna Koramangala,Edible Oils,Tuesday,2024-10,127547.35
+S02,Annapurna Koramangala,Edible Oils,Wednesday,2024-10,97346.56
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Friday,2024-10,25347.87
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Monday,2024-10,26619.47
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Saturday,2024-10,49815.81
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Sunday,2024-10,49146.20
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Thursday,2024-10,47858.28
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Tuesday,2024-10,36518.00
+S02,Annapurna Koramangala,Frozen & Ready to Eat,Wednesday,2024-10,40715.26
+S02,Annapurna Koramangala,Fruits & Vegetables,Friday,2024-10,13910.56
+S02,Annapurna Koramangala,Fruits & Vegetables,Monday,2024-10,21050.50
+S02,Annapurna Koramangala,Fruits & Vegetables,Saturday,2024-10,27332.02
+S02,Annapurna Koramangala,Fruits & Vegetables,Sunday,2024-10,30815.38
+S02,Annapurna Koramangala,Fruits & Vegetables,Thursday,2024-10,22605.97
+S02,Annapurna Koramangala,Fruits & Vegetables,Tuesday,2024-10,29878.25
+S02,Annapurna Koramangala,Fruits & Vegetables,Wednesday,2024-10,26666.66
+S02,Annapurna Koramangala,Home Care,Friday,2024-10,38905.21
+S02,Annapurna Koramangala,Home Care,Monday,2024-10,31923.48
+S02,Annapurna Koramangala,Home Care,Saturday,2024-10,46200.49
+S02,Annapurna Koramangala,Home Care,Sunday,2024-10,47200.08
+S02,Annapurna Koramangala,Home Care,Thursday,2024-10,44843.79
+S02,Annapurna Koramangala,Home Care,Tuesday,2024-10,34221.17
+S02,Annapurna Koramangala,Home Care,Wednesday,2024-10,36887.94
+S02,Annapurna Koramangala,Personal Care,Friday,2024-10,42385.05
+S02,Annapurna Koramangala,Personal Care,Monday,2024-10,39796.00
+S02,Annapurna Koramangala,Personal Care,Saturday,2024-10,55263.69
+S02,Annapurna Koramangala,Personal Care,Sunday,2024-10,55199.28
+S02,Annapurna Koramangala,Personal Care,Thursday,2024-10,64515.98
+S02,Annapurna Koramangala,Personal Care,Tuesday,2024-10,50722.43
+S02,Annapurna Koramangala,Personal Care,Wednesday,2024-10,72931.61
+S02,Annapurna Koramangala,Spices & Masala,Friday,2024-10,20972.26
+S02,Annapurna Koramangala,Spices & Masala,Monday,2024-10,14295.07
+S02,Annapurna Koramangala,Spices & Masala,Saturday,2024-10,38857.01
+S02,Annapurna Koramangala,Spices & Masala,Sunday,2024-10,24425.20
+S02,Annapurna Koramangala,Spices & Masala,Thursday,2024-10,18667.81
+S02,Annapurna Koramangala,Spices & Masala,Tuesday,2024-10,17736.45
+S02,Annapurna Koramangala,Spices & Masala,Wednesday,2024-10,24517.91
+S02,Annapurna Koramangala,Staples & Grains,Friday,2024-10,96413.50
+S02,Annapurna Koramangala,Staples & Grains,Monday,2024-10,132239.40
+S02,Annapurna Koramangala,Staples & Grains,Saturday,2024-10,122355.93
+S02,Annapurna Koramangala,Staples & Grains,Sunday,2024-10,163477.16
+S02,Annapurna Koramangala,Staples & Grains,Thursday,2024-10,193270.59
+S02,Annapurna Koramangala,Staples & Grains,Tuesday,2024-10,108782.04
+S02,Annapurna Koramangala,Staples & Grains,Wednesday,2024-10,141704.12
+S02,Annapurna Koramangala,Stationery & General,Friday,2024-10,24111.00
+S02,Annapurna Koramangala,Stationery & General,Monday,2024-10,29441.42
+S02,Annapurna Koramangala,Stationery & General,Saturday,2024-10,42276.03
+S02,Annapurna Koramangala,Stationery & General,Sunday,2024-10,51463.94
+S02,Annapurna Koramangala,Stationery & General,Thursday,2024-10,37683.58
+S02,Annapurna Koramangala,Stationery & General,Tuesday,2024-10,39390.75
+S02,Annapurna Koramangala,Stationery & General,Wednesday,2024-10,41678.19
+S03,Annapurna T Nagar,Baby Care,Friday,2024-10,139365.10
+S03,Annapurna T Nagar,Baby Care,Monday,2024-10,114215.08
+S03,Annapurna T Nagar,Baby Care,Saturday,2024-10,190502.01
+S03,Annapurna T Nagar,Baby Care,Sunday,2024-10,194560.75
+S03,Annapurna T Nagar,Baby Care,Thursday,2024-10,190775.77
+S03,Annapurna T Nagar,Baby Care,Tuesday,2024-10,145126.97
+S03,Annapurna T Nagar,Baby Care,Wednesday,2024-10,136948.77
+S03,Annapurna T Nagar,Bakery,Friday,2024-10,23815.48
+S03,Annapurna T Nagar,Bakery,Monday,2024-10,19847.70
+S03,Annapurna T Nagar,Bakery,Saturday,2024-10,29799.65
+S03,Annapurna T Nagar,Bakery,Sunday,2024-10,23028.86
+S03,Annapurna T Nagar,Bakery,Thursday,2024-10,23356.06
+S03,Annapurna T Nagar,Bakery,Tuesday,2024-10,19956.04
+S03,Annapurna T Nagar,Bakery,Wednesday,2024-10,25831.37
+S03,Annapurna T Nagar,Beverages,Friday,2024-10,45899.30
+S03,Annapurna T Nagar,Beverages,Monday,2024-10,40539.88
+S03,Annapurna T Nagar,Beverages,Saturday,2024-10,56426.94
+S03,Annapurna T Nagar,Beverages,Sunday,2024-10,68233.57
+S03,Annapurna T Nagar,Beverages,Thursday,2024-10,49331.12
+S03,Annapurna T Nagar,Beverages,Tuesday,2024-10,41882.16
+S03,Annapurna T Nagar,Beverages,Wednesday,2024-10,49723.38
+S03,Annapurna T Nagar,Biscuits & Snacks,Friday,2024-10,12841.83
+S03,Annapurna T Nagar,Biscuits & Snacks,Monday,2024-10,9433.72
+S03,Annapurna T Nagar,Biscuits & Snacks,Saturday,2024-10,20586.10
+S03,Annapurna T Nagar,Biscuits & Snacks,Sunday,2024-10,13807.63
+S03,Annapurna T Nagar,Biscuits & Snacks,Thursday,2024-10,13204.34
+S03,Annapurna T Nagar,Biscuits & Snacks,Tuesday,2024-10,11318.32
+S03,Annapurna T Nagar,Biscuits & Snacks,Wednesday,2024-10,10249.91
+S03,Annapurna T Nagar,Confectionery,Friday,2024-10,31495.89
+S03,Annapurna T Nagar,Confectionery,Monday,2024-10,22551.37
+S03,Annapurna T Nagar,Confectionery,Saturday,2024-10,42164.59
+S03,Annapurna T Nagar,Confectionery,Sunday,2024-10,24475.71
+S03,Annapurna T Nagar,Confectionery,Thursday,2024-10,34056.89
+S03,Annapurna T Nagar,Confectionery,Tuesday,2024-10,26992.66
+S03,Annapurna T Nagar,Confectionery,Wednesday,2024-10,27927.79
+S03,Annapurna T Nagar,Dairy,Friday,2024-10,64578.31
+S03,Annapurna T Nagar,Dairy,Monday,2024-10,46810.18
+S03,Annapurna T Nagar,Dairy,Saturday,2024-10,98984.94
+S03,Annapurna T Nagar,Dairy,Sunday,2024-10,65017.86
+S03,Annapurna T Nagar,Dairy,Thursday,2024-10,72758.73
+S03,Annapurna T Nagar,Dairy,Tuesday,2024-10,57897.36
+S03,Annapurna T Nagar,Dairy,Wednesday,2024-10,90464.07
+S03,Annapurna T Nagar,Edible Oils,Friday,2024-10,135893.99
+S03,Annapurna T Nagar,Edible Oils,Monday,2024-10,86473.07
+S03,Annapurna T Nagar,Edible Oils,Saturday,2024-10,208302.13
+S03,Annapurna T Nagar,Edible Oils,Sunday,2024-10,133671.84
+S03,Annapurna T Nagar,Edible Oils,Thursday,2024-10,124187.89
+S03,Annapurna T Nagar,Edible Oils,Tuesday,2024-10,141994.97
+S03,Annapurna T Nagar,Edible Oils,Wednesday,2024-10,141107.68
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Friday,2024-10,57017.65
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Monday,2024-10,41209.02
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Saturday,2024-10,81159.42
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Sunday,2024-10,59896.55
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Thursday,2024-10,56231.68
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Tuesday,2024-10,50067.00
+S03,Annapurna T Nagar,Frozen & Ready to Eat,Wednesday,2024-10,43142.66
+S03,Annapurna T Nagar,Fruits & Vegetables,Friday,2024-10,26014.61
+S03,Annapurna T Nagar,Fruits & Vegetables,Monday,2024-10,17941.14
+S03,Annapurna T Nagar,Fruits & Vegetables,Saturday,2024-10,38953.65
+S03,Annapurna T Nagar,Fruits & Vegetables,Sunday,2024-10,33711.30
+S03,Annapurna T Nagar,Fruits & Vegetables,Thursday,2024-10,31531.26
+S03,Annapurna T Nagar,Fruits & Vegetables,Tuesday,2024-10,21502.84
+S03,Annapurna T Nagar,Fruits & Vegetables,Wednesday,2024-10,18465.99
+S03,Annapurna T Nagar,Home Care,Friday,2024-10,40958.04
+S03,Annapurna T Nagar,Home Care,Monday,2024-10,33901.46
+S03,Annapurna T Nagar,Home Care,Saturday,2024-10,71936.83
+S03,Annapurna T Nagar,Home Care,Sunday,2024-10,50554.68
+S03,Annapurna T Nagar,Home Care,Thursday,2024-10,43473.07
+S03,Annapurna T Nagar,Home Care,Tuesday,2024-10,45862.25
+S03,Annapurna T Nagar,Home Care,Wednesday,2024-10,59110.74
+S03,Annapurna T Nagar,Personal Care,Friday,2024-10,80212.40
+S03,Annapurna T Nagar,Personal Care,Monday,2024-10,47995.54
+S03,Annapurna T Nagar,Personal Care,Saturday,2024-10,82949.18
+S03,Annapurna T Nagar,Personal Care,Sunday,2024-10,68012.01
+S03,Annapurna T Nagar,Personal Care,Thursday,2024-10,74770.87
+S03,Annapurna T Nagar,Personal Care,Tuesday,2024-10,57733.87
+S03,Annapurna T Nagar,Personal Care,Wednesday,2024-10,47536.59
+S03,Annapurna T Nagar,Spices & Masala,Friday,2024-10,28406.05
+S03,Annapurna T Nagar,Spices & Masala,Monday,2024-10,24211.93
+S03,Annapurna T Nagar,Spices & Masala,Saturday,2024-10,41850.41
+S03,Annapurna T Nagar,Spices & Masala,Sunday,2024-10,38682.60
+S03,Annapurna T Nagar,Spices & Masala,Thursday,2024-10,37229.35
+S03,Annapurna T Nagar,Spices & Masala,Tuesday,2024-10,31053.82
+S03,Annapurna T Nagar,Spices & Masala,Wednesday,2024-10,32375.93
+S03,Annapurna T Nagar,Staples & Grains,Friday,2024-10,115401.48
+S03,Annapurna T Nagar,Staples & Grains,Monday,2024-10,142529.93
+S03,Annapurna T Nagar,Staples & Grains,Saturday,2024-10,248893.90
+S03,Annapurna T Nagar,Staples & Grains,Sunday,2024-10,221404.13
+S03,Annapurna T Nagar,Staples & Grains,Thursday,2024-10,163796.76
+S03,Annapurna T Nagar,Staples & Grains,Tuesday,2024-10,155341.99
+S03,Annapurna T Nagar,Staples & Grains,Wednesday,2024-10,172805.97
+S03,Annapurna T Nagar,Stationery & General,Friday,2024-10,32646.22
+S03,Annapurna T Nagar,Stationery & General,Monday,2024-10,39206.13
+S03,Annapurna T Nagar,Stationery & General,Saturday,2024-10,75043.07
+S03,Annapurna T Nagar,Stationery & General,Sunday,2024-10,71625.81
+S03,Annapurna T Nagar,Stationery & General,Thursday,2024-10,46509.32
+S03,Annapurna T Nagar,Stationery & General,Tuesday,2024-10,47147.51
+S03,Annapurna T Nagar,Stationery & General,Wednesday,2024-10,50002.85
+S04,Annapurna Kukatpally,Baby Care,Friday,2024-10,74673.90
+S04,Annapurna Kukatpally,Baby Care,Monday,2024-10,111255.56
+S04,Annapurna Kukatpally,Baby Care,Saturday,2024-10,127020.00
+S04,Annapurna Kukatpally,Baby Care,Sunday,2024-10,147443.05
+S04,Annapurna Kukatpally,Baby Care,Thursday,2024-10,121003.48
+S04,Annapurna Kukatpally,Baby Care,Tuesday,2024-10,67809.26
+S04,Annapurna Kukatpally,Baby Care,Wednesday,2024-10,64950.70
+S04,Annapurna Kukatpally,Bakery,Friday,2024-10,16087.24
+S04,Annapurna Kukatpally,Bakery,Monday,2024-10,12442.57
+S04,Annapurna Kukatpally,Bakery,Saturday,2024-10,20926.90
+S04,Annapurna Kukatpally,Bakery,Sunday,2024-10,19422.24
+S04,Annapurna Kukatpally,Bakery,Thursday,2024-10,15560.47
+S04,Annapurna Kukatpally,Bakery,Tuesday,2024-10,16433.02
+S04,Annapurna Kukatpally,Bakery,Wednesday,2024-10,8188.08
+S04,Annapurna Kukatpally,Beverages,Friday,2024-10,23685.66
+S04,Annapurna Kukatpally,Beverages,Monday,2024-10,19493.30
+S04,Annapurna Kukatpally,Beverages,Saturday,2024-10,41141.97
+S04,Annapurna Kukatpally,Beverages,Sunday,2024-10,30939.74
+S04,Annapurna Kukatpally,Beverages,Thursday,2024-10,36306.16
+S04,Annapurna Kukatpally,Beverages,Tuesday,2024-10,18033.79
+S04,Annapurna Kukatpally,Beverages,Wednesday,2024-10,25785.34
+S04,Annapurna Kukatpally,Biscuits & Snacks,Friday,2024-10,10902.23
+S04,Annapurna Kukatpally,Biscuits & Snacks,Monday,2024-10,5746.78
+S04,Annapurna Kukatpally,Biscuits & Snacks,Saturday,2024-10,11656.61
+S04,Annapurna Kukatpally,Biscuits & Snacks,Sunday,2024-10,10578.54
+S04,Annapurna Kukatpally,Biscuits & Snacks,Thursday,2024-10,9099.15
+S04,Annapurna Kukatpally,Biscuits & Snacks,Tuesday,2024-10,10358.24
+S04,Annapurna Kukatpally,Biscuits & Snacks,Wednesday,2024-10,5247.72
+S04,Annapurna Kukatpally,Confectionery,Friday,2024-10,21669.21
+S04,Annapurna Kukatpally,Confectionery,Monday,2024-10,18796.20
+S04,Annapurna Kukatpally,Confectionery,Saturday,2024-10,29234.90
+S04,Annapurna Kukatpally,Confectionery,Sunday,2024-10,26710.54
+S04,Annapurna Kukatpally,Confectionery,Thursday,2024-10,28449.94
+S04,Annapurna Kukatpally,Confectionery,Tuesday,2024-10,19255.35
+S04,Annapurna Kukatpally,Confectionery,Wednesday,2024-10,14914.21
+S04,Annapurna Kukatpally,Dairy,Friday,2024-10,50043.89
+S04,Annapurna Kukatpally,Dairy,Monday,2024-10,25929.30
+S04,Annapurna Kukatpally,Dairy,Saturday,2024-10,65184.01
+S04,Annapurna Kukatpally,Dairy,Sunday,2024-10,69842.77
+S04,Annapurna Kukatpally,Dairy,Thursday,2024-10,45716.34
+S04,Annapurna Kukatpally,Dairy,Tuesday,2024-10,50057.17
+S04,Annapurna Kukatpally,Dairy,Wednesday,2024-10,35016.16
+S04,Annapurna Kukatpally,Edible Oils,Friday,2024-10,98459.04
+S04,Annapurna Kukatpally,Edible Oils,Monday,2024-10,55796.67
+S04,Annapurna Kukatpally,Edible Oils,Saturday,2024-10,171151.96
+S04,Annapurna Kukatpally,Edible Oils,Sunday,2024-10,116259.44
+S04,Annapurna Kukatpally,Edible Oils,Thursday,2024-10,135276.52
+S04,Annapurna Kukatpally,Edible Oils,Tuesday,2024-10,127049.57
+S04,Annapurna Kukatpally,Edible Oils,Wednesday,2024-10,62221.22
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Friday,2024-10,38556.92
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Monday,2024-10,18974.94
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Saturday,2024-10,51552.26
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Sunday,2024-10,39328.86
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Thursday,2024-10,40165.61
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Tuesday,2024-10,37503.87
+S04,Annapurna Kukatpally,Frozen & Ready to Eat,Wednesday,2024-10,35196.28
+S04,Annapurna Kukatpally,Fruits & Vegetables,Friday,2024-10,13754.09
+S04,Annapurna Kukatpally,Fruits & Vegetables,Monday,2024-10,11165.30
+S04,Annapurna Kukatpally,Fruits & Vegetables,Saturday,2024-10,20824.80
+S04,Annapurna Kukatpally,Fruits & Vegetables,Sunday,2024-10,25914.89
+S04,Annapurna Kukatpally,Fruits & Vegetables,Thursday,2024-10,20843.77
+S04,Annapurna Kukatpally,Fruits & Vegetables,Tuesday,2024-10,16883.55
+S04,Annapurna Kukatpally,Fruits & Vegetables,Wednesday,2024-10,14220.88
+S04,Annapurna Kukatpally,Home Care,Friday,2024-10,36234.20
+S04,Annapurna Kukatpally,Home Care,Monday,2024-10,23608.74
+S04,Annapurna Kukatpally,Home Care,Saturday,2024-10,42936.24
+S04,Annapurna Kukatpally,Home Care,Sunday,2024-10,35412.47
+S04,Annapurna Kukatpally,Home Care,Thursday,2024-10,41184.11
+S04,Annapurna Kukatpally,Home Care,Tuesday,2024-10,25138.64
+S04,Annapurna Kukatpally,Home Care,Wednesday,2024-10,20480.49
+S04,Annapurna Kukatpally,Personal Care,Friday,2024-10,34130.85
+S04,Annapurna Kukatpally,Personal Care,Monday,2024-10,43026.58
+S04,Annapurna Kukatpally,Personal Care,Saturday,2024-10,47581.41
+S04,Annapurna Kukatpally,Personal Care,Sunday,2024-10,46762.48
+S04,Annapurna Kukatpally,Personal Care,Thursday,2024-10,43342.78
+S04,Annapurna Kukatpally,Personal Care,Tuesday,2024-10,42318.03
+S04,Annapurna Kukatpally,Personal Care,Wednesday,2024-10,37512.31
+S04,Annapurna Kukatpally,Spices & Masala,Friday,2024-10,24699.07
+S04,Annapurna Kukatpally,Spices & Masala,Monday,2024-10,19444.08
+S04,Annapurna Kukatpally,Spices & Masala,Saturday,2024-10,26633.04
+S04,Annapurna Kukatpally,Spices & Masala,Sunday,2024-10,24912.25
+S04,Annapurna Kukatpally,Spices & Masala,Thursday,2024-10,22582.36
+S04,Annapurna Kukatpally,Spices & Masala,Tuesday,2024-10,18321.05
+S04,Annapurna Kukatpally,Spices & Masala,Wednesday,2024-10,13083.02
+S04,Annapurna Kukatpally,Staples & Grains,Friday,2024-10,103175.50
+S04,Annapurna Kukatpally,Staples & Grains,Monday,2024-10,79903.85
+S04,Annapurna Kukatpally,Staples & Grains,Saturday,2024-10,207807.37
+S04,Annapurna Kukatpally,Staples & Grains,Sunday,2024-10,134222.06
+S04,Annapurna Kukatpally,Staples & Grains,Thursday,2024-10,167606.48
+S04,Annapurna Kukatpally,Staples & Grains,Tuesday,2024-10,137475.49
+S04,Annapurna Kukatpally,Staples & Grains,Wednesday,2024-10,105193.23
+S04,Annapurna Kukatpally,Stationery & General,Friday,2024-10,28330.14
+S04,Annapurna Kukatpally,Stationery & General,Monday,2024-10,25376.05
+S04,Annapurna Kukatpally,Stationery & General,Saturday,2024-10,36286.29
+S04,Annapurna Kukatpally,Stationery & General,Sunday,2024-10,29546.51
+S04,Annapurna Kukatpally,Stationery & General,Thursday,2024-10,23524.85
+S04,Annapurna Kukatpally,Stationery & General,Tuesday,2024-10,17084.93
+S04,Annapurna Kukatpally,Stationery & General,Wednesday,2024-10,22560.34
+S05,Annapurna Kochi Marine,Baby Care,Friday,2024-10,97022.90
+S05,Annapurna Kochi Marine,Baby Care,Monday,2024-10,78030.74
+S05,Annapurna Kochi Marine,Baby Care,Saturday,2024-10,85209.30
+S05,Annapurna Kochi Marine,Baby Care,Sunday,2024-10,73480.63
+S05,Annapurna Kochi Marine,Baby Care,Thursday,2024-10,79410.47
+S05,Annapurna Kochi Marine,Baby Care,Tuesday,2024-10,50603.26
+S05,Annapurna Kochi Marine,Baby Care,Wednesday,2024-10,48676.27
+S05,Annapurna Kochi Marine,Bakery,Friday,2024-10,13078.14
+S05,Annapurna Kochi Marine,Bakery,Monday,2024-10,7911.06
+S05,Annapurna Kochi Marine,Bakery,Saturday,2024-10,11752.47
+S05,Annapurna Kochi Marine,Bakery,Sunday,2024-10,11540.66
+S05,Annapurna Kochi Marine,Bakery,Thursday,2024-10,10710.06
+S05,Annapurna Kochi Marine,Bakery,Tuesday,2024-10,8929.26
+S05,Annapurna Kochi Marine,Bakery,Wednesday,2024-10,7865.55
+S05,Annapurna Kochi Marine,Beverages,Friday,2024-10,24840.86
+S05,Annapurna Kochi Marine,Beverages,Monday,2024-10,13885.08
+S05,Annapurna Kochi Marine,Beverages,Saturday,2024-10,33151.07
+S05,Annapurna Kochi Marine,Beverages,Sunday,2024-10,27035.27
+S05,Annapurna Kochi Marine,Beverages,Thursday,2024-10,18199.43
+S05,Annapurna Kochi Marine,Beverages,Tuesday,2024-10,11663.81
+S05,Annapurna Kochi Marine,Beverages,Wednesday,2024-10,15953.39
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Friday,2024-10,6595.73
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Monday,2024-10,5705.72
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Saturday,2024-10,10804.95
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Sunday,2024-10,8718.05
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Thursday,2024-10,7837.21
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Tuesday,2024-10,7409.21
+S05,Annapurna Kochi Marine,Biscuits & Snacks,Wednesday,2024-10,8070.25
+S05,Annapurna Kochi Marine,Confectionery,Friday,2024-10,16681.20
+S05,Annapurna Kochi Marine,Confectionery,Monday,2024-10,14189.41
+S05,Annapurna Kochi Marine,Confectionery,Saturday,2024-10,23741.10
+S05,Annapurna Kochi Marine,Confectionery,Sunday,2024-10,12193.65
+S05,Annapurna Kochi Marine,Confectionery,Thursday,2024-10,14086.06
+S05,Annapurna Kochi Marine,Confectionery,Tuesday,2024-10,11241.42
+S05,Annapurna Kochi Marine,Confectionery,Wednesday,2024-10,10178.28
+S05,Annapurna Kochi Marine,Dairy,Friday,2024-10,21926.45
+S05,Annapurna Kochi Marine,Dairy,Monday,2024-10,32573.56
+S05,Annapurna Kochi Marine,Dairy,Saturday,2024-10,54962.28
+S05,Annapurna Kochi Marine,Dairy,Sunday,2024-10,43302.99
+S05,Annapurna Kochi Marine,Dairy,Thursday,2024-10,51281.81
+S05,Annapurna Kochi Marine,Dairy,Tuesday,2024-10,30548.73
+S05,Annapurna Kochi Marine,Dairy,Wednesday,2024-10,29849.74
+S05,Annapurna Kochi Marine,Edible Oils,Friday,2024-10,54623.49
+S05,Annapurna Kochi Marine,Edible Oils,Monday,2024-10,69174.92
+S05,Annapurna Kochi Marine,Edible Oils,Saturday,2024-10,68478.26
+S05,Annapurna Kochi Marine,Edible Oils,Sunday,2024-10,123058.62
+S05,Annapurna Kochi Marine,Edible Oils,Thursday,2024-10,79743.72
+S05,Annapurna Kochi Marine,Edible Oils,Tuesday,2024-10,44538.31
+S05,Annapurna Kochi Marine,Edible Oils,Wednesday,2024-10,60433.23
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Friday,2024-10,29212.50
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Monday,2024-10,19130.18
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Saturday,2024-10,43397.14
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Sunday,2024-10,28627.07
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Thursday,2024-10,19776.27
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Tuesday,2024-10,20325.67
+S05,Annapurna Kochi Marine,Frozen & Ready to Eat,Wednesday,2024-10,15904.23
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Friday,2024-10,15164.00
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Monday,2024-10,6783.44
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Saturday,2024-10,12883.95
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Sunday,2024-10,20902.82
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Thursday,2024-10,10689.63
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Tuesday,2024-10,8806.40
+S05,Annapurna Kochi Marine,Fruits & Vegetables,Wednesday,2024-10,20719.13
+S05,Annapurna Kochi Marine,Home Care,Friday,2024-10,28707.99
+S05,Annapurna Kochi Marine,Home Care,Monday,2024-10,18784.22
+S05,Annapurna Kochi Marine,Home Care,Saturday,2024-10,26582.34
+S05,Annapurna Kochi Marine,Home Care,Sunday,2024-10,40763.21
+S05,Annapurna Kochi Marine,Home Care,Thursday,2024-10,27001.72
+S05,Annapurna Kochi Marine,Home Care,Tuesday,2024-10,17657.73
+S05,Annapurna Kochi Marine,Home Care,Wednesday,2024-10,29595.93
+S05,Annapurna Kochi Marine,Personal Care,Friday,2024-10,32634.67
+S05,Annapurna Kochi Marine,Personal Care,Monday,2024-10,20117.84
+S05,Annapurna Kochi Marine,Personal Care,Saturday,2024-10,39742.43
+S05,Annapurna Kochi Marine,Personal Care,Sunday,2024-10,36677.59
+S05,Annapurna Kochi Marine,Personal Care,Thursday,2024-10,41646.65
+S05,Annapurna Kochi Marine,Personal Care,Tuesday,2024-10,29928.90
+S05,Annapurna Kochi Marine,Personal Care,Wednesday,2024-10,15832.81
+S05,Annapurna Kochi Marine,Spices & Masala,Friday,2024-10,17061.80
+S05,Annapurna Kochi Marine,Spices & Masala,Monday,2024-10,13273.84
+S05,Annapurna Kochi Marine,Spices & Masala,Saturday,2024-10,21260.22
+S05,Annapurna Kochi Marine,Spices & Masala,Sunday,2024-10,22987.50
+S05,Annapurna Kochi Marine,Spices & Masala,Thursday,2024-10,16883.24
+S05,Annapurna Kochi Marine,Spices & Masala,Tuesday,2024-10,8446.37
+S05,Annapurna Kochi Marine,Spices & Masala,Wednesday,2024-10,12259.11
+S05,Annapurna Kochi Marine,Staples & Grains,Friday,2024-10,84541.59
+S05,Annapurna Kochi Marine,Staples & Grains,Monday,2024-10,77240.86
+S05,Annapurna Kochi Marine,Staples & Grains,Saturday,2024-10,112457.91
+S05,Annapurna Kochi Marine,Staples & Grains,Sunday,2024-10,127309.57
+S05,Annapurna Kochi Marine,Staples & Grains,Thursday,2024-10,76898.00
+S05,Annapurna Kochi Marine,Staples & Grains,Tuesday,2024-10,74444.62
+S05,Annapurna Kochi Marine,Staples & Grains,Wednesday,2024-10,62069.74
+S05,Annapurna Kochi Marine,Stationery & General,Friday,2024-10,28199.71
+S05,Annapurna Kochi Marine,Stationery & General,Monday,2024-10,21166.18
+S05,Annapurna Kochi Marine,Stationery & General,Saturday,2024-10,21712.34
+S05,Annapurna Kochi Marine,Stationery & General,Sunday,2024-10,27288.62
+S05,Annapurna Kochi Marine,Stationery & General,Thursday,2024-10,26580.28
+S05,Annapurna Kochi Marine,Stationery & General,Tuesday,2024-10,19386.11
+S05,Annapurna Kochi Marine,Stationery & General,Wednesday,2024-10,23413.16
+S06,Annapurna Andheri West,Baby Care,Friday,2024-10,147310.91
+S06,Annapurna Andheri West,Baby Care,Monday,2024-10,129132.02
+S06,Annapurna Andheri West,Baby Care,Saturday,2024-10,184692.32
+S06,Annapurna Andheri West,Baby Care,Sunday,2024-10,152578.50
+S06,Annapurna Andheri West,Baby Care,Thursday,2024-10,118520.67
+S06,Annapurna Andheri West,Baby Care,Tuesday,2024-10,139989.93
+S06,Annapurna Andheri West,Baby Care,Wednesday,2024-10,93406.87
+S06,Annapurna Andheri West,Bakery,Friday,2024-10,18014.25
+S06,Annapurna Andheri West,Bakery,Monday,2024-10,14996.02
+S06,Annapurna Andheri West,Bakery,Saturday,2024-10,25503.50
+S06,Annapurna Andheri West,Bakery,Sunday,2024-10,31583.38
+S06,Annapurna Andheri West,Bakery,Thursday,2024-10,18708.85
+S06,Annapurna Andheri West,Bakery,Tuesday,2024-10,13067.57
+S06,Annapurna Andheri West,Bakery,Wednesday,2024-10,14884.23
+S06,Annapurna Andheri West,Beverages,Friday,2024-10,38291.93
+S06,Annapurna Andheri West,Beverages,Monday,2024-10,31515.97
+S06,Annapurna Andheri West,Beverages,Saturday,2024-10,56363.34
+S06,Annapurna Andheri West,Beverages,Sunday,2024-10,56117.22
+S06,Annapurna Andheri West,Beverages,Thursday,2024-10,42063.96
+S06,Annapurna Andheri West,Beverages,Tuesday,2024-10,22228.07
+S06,Annapurna Andheri West,Beverages,Wednesday,2024-10,34482.71
+S06,Annapurna Andheri West,Biscuits & Snacks,Friday,2024-10,11709.40
+S06,Annapurna Andheri West,Biscuits & Snacks,Monday,2024-10,10359.10
+S06,Annapurna Andheri West,Biscuits & Snacks,Saturday,2024-10,17108.90
+S06,Annapurna Andheri West,Biscuits & Snacks,Sunday,2024-10,14636.06
+S06,Annapurna Andheri West,Biscuits & Snacks,Thursday,2024-10,11631.23
+S06,Annapurna Andheri West,Biscuits & Snacks,Tuesday,2024-10,12628.33
+S06,Annapurna Andheri West,Biscuits & Snacks,Wednesday,2024-10,8859.94
+S06,Annapurna Andheri West,Confectionery,Friday,2024-10,25320.89
+S06,Annapurna Andheri West,Confectionery,Monday,2024-10,22484.59
+S06,Annapurna Andheri West,Confectionery,Saturday,2024-10,27052.16
+S06,Annapurna Andheri West,Confectionery,Sunday,2024-10,31962.40
+S06,Annapurna Andheri West,Confectionery,Thursday,2024-10,26775.39
+S06,Annapurna Andheri West,Confectionery,Tuesday,2024-10,27986.58
+S06,Annapurna Andheri West,Confectionery,Wednesday,2024-10,24302.47
+S06,Annapurna Andheri West,Dairy,Friday,2024-10,60104.30
+S06,Annapurna Andheri West,Dairy,Monday,2024-10,44252.37
+S06,Annapurna Andheri West,Dairy,Saturday,2024-10,74047.31
+S06,Annapurna Andheri West,Dairy,Sunday,2024-10,72528.32
+S06,Annapurna Andheri West,Dairy,Thursday,2024-10,65186.63
+S06,Annapurna Andheri West,Dairy,Tuesday,2024-10,70137.90
+S06,Annapurna Andheri West,Dairy,Wednesday,2024-10,55704.21
+S06,Annapurna Andheri West,Edible Oils,Friday,2024-10,146056.96
+S06,Annapurna Andheri West,Edible Oils,Monday,2024-10,107290.94
+S06,Annapurna Andheri West,Edible Oils,Saturday,2024-10,163294.92
+S06,Annapurna Andheri West,Edible Oils,Sunday,2024-10,161672.97
+S06,Annapurna Andheri West,Edible Oils,Thursday,2024-10,192288.24
+S06,Annapurna Andheri West,Edible Oils,Tuesday,2024-10,95264.85
+S06,Annapurna Andheri West,Edible Oils,Wednesday,2024-10,87323.17
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Friday,2024-10,51149.39
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Monday,2024-10,41433.99
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Saturday,2024-10,55465.80
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Sunday,2024-10,54506.83
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Thursday,2024-10,46506.37
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Tuesday,2024-10,48279.75
+S06,Annapurna Andheri West,Frozen & Ready to Eat,Wednesday,2024-10,38831.21
+S06,Annapurna Andheri West,Fruits & Vegetables,Friday,2024-10,19699.86
+S06,Annapurna Andheri West,Fruits & Vegetables,Monday,2024-10,16095.95
+S06,Annapurna Andheri West,Fruits & Vegetables,Saturday,2024-10,39120.08
+S06,Annapurna Andheri West,Fruits & Vegetables,Sunday,2024-10,35492.78
+S06,Annapurna Andheri West,Fruits & Vegetables,Thursday,2024-10,25705.74
+S06,Annapurna Andheri West,Fruits & Vegetables,Tuesday,2024-10,17358.91
+S06,Annapurna Andheri West,Fruits & Vegetables,Wednesday,2024-10,21944.67
+S06,Annapurna Andheri West,Home Care,Friday,2024-10,45902.73
+S06,Annapurna Andheri West,Home Care,Monday,2024-10,44963.11
+S06,Annapurna Andheri West,Home Care,Saturday,2024-10,51945.22
+S06,Annapurna Andheri West,Home Care,Sunday,2024-10,52359.01
+S06,Annapurna Andheri West,Home Care,Thursday,2024-10,41551.27
+S06,Annapurna Andheri West,Home Care,Tuesday,2024-10,44605.60
+S06,Annapurna Andheri West,Home Care,Wednesday,2024-10,33650.59
+S06,Annapurna Andheri West,Personal Care,Friday,2024-10,63246.44
+S06,Annapurna Andheri West,Personal Care,Monday,2024-10,36783.30
+S06,Annapurna Andheri West,Personal Care,Saturday,2024-10,65505.26
+S06,Annapurna Andheri West,Personal Care,Sunday,2024-10,62379.49
+S06,Annapurna Andheri West,Personal Care,Thursday,2024-10,63438.95
+S06,Annapurna Andheri West,Personal Care,Tuesday,2024-10,37543.59
+S06,Annapurna Andheri West,Personal Care,Wednesday,2024-10,49953.50
+S06,Annapurna Andheri West,Spices & Masala,Friday,2024-10,31012.68
+S06,Annapurna Andheri West,Spices & Masala,Monday,2024-10,9687.69
+S06,Annapurna Andheri West,Spices & Masala,Saturday,2024-10,43078.37
+S06,Annapurna Andheri West,Spices & Masala,Sunday,2024-10,42364.66
+S06,Annapurna Andheri West,Spices & Masala,Thursday,2024-10,26435.61
+S06,Annapurna Andheri West,Spices & Masala,Tuesday,2024-10,25175.36
+S06,Annapurna Andheri West,Spices & Masala,Wednesday,2024-10,26760.04
+S06,Annapurna Andheri West,Staples & Grains,Friday,2024-10,130834.43
+S06,Annapurna Andheri West,Staples & Grains,Monday,2024-10,91451.18
+S06,Annapurna Andheri West,Staples & Grains,Saturday,2024-10,167155.75
+S06,Annapurna Andheri West,Staples & Grains,Sunday,2024-10,182037.73
+S06,Annapurna Andheri West,Staples & Grains,Thursday,2024-10,143806.39
+S06,Annapurna Andheri West,Staples & Grains,Tuesday,2024-10,160122.39
+S06,Annapurna Andheri West,Staples & Grains,Wednesday,2024-10,131800.17
+S06,Annapurna Andheri West,Stationery & General,Friday,2024-10,42284.56
+S06,Annapurna Andheri West,Stationery & General,Monday,2024-10,30935.55
+S06,Annapurna Andheri West,Stationery & General,Saturday,2024-10,57925.48
+S06,Annapurna Andheri West,Stationery & General,Sunday,2024-10,35632.22
+S06,Annapurna Andheri West,Stationery & General,Thursday,2024-10,36534.91
+S06,Annapurna Andheri West,Stationery & General,Tuesday,2024-10,30301.64
+S06,Annapurna Andheri West,Stationery & General,Wednesday,2024-10,29285.50
+S07,Annapurna Baner,Baby Care,Friday,2024-10,66402.09
+S07,Annapurna Baner,Baby Care,Monday,2024-10,56972.38
+S07,Annapurna Baner,Baby Care,Saturday,2024-10,139192.73
+S07,Annapurna Baner,Baby Care,Sunday,2024-10,129070.78
+S07,Annapurna Baner,Baby Care,Thursday,2024-10,119361.49
+S07,Annapurna Baner,Baby Care,Tuesday,2024-10,118563.66
+S07,Annapurna Baner,Baby Care,Wednesday,2024-10,56852.79
+S07,Annapurna Baner,Bakery,Friday,2024-10,10769.62
+S07,Annapurna Baner,Bakery,Monday,2024-10,5096.86
+S07,Annapurna Baner,Bakery,Saturday,2024-10,22304.26
+S07,Annapurna Baner,Bakery,Sunday,2024-10,19047.85
+S07,Annapurna Baner,Bakery,Thursday,2024-10,9712.95
+S07,Annapurna Baner,Bakery,Tuesday,2024-10,8179.06
+S07,Annapurna Baner,Bakery,Wednesday,2024-10,10156.14
+S07,Annapurna Baner,Beverages,Friday,2024-10,26798.74
+S07,Annapurna Baner,Beverages,Monday,2024-10,15525.62
+S07,Annapurna Baner,Beverages,Saturday,2024-10,39826.51
+S07,Annapurna Baner,Beverages,Sunday,2024-10,34856.68
+S07,Annapurna Baner,Beverages,Thursday,2024-10,26180.38
+S07,Annapurna Baner,Beverages,Tuesday,2024-10,24176.89
+S07,Annapurna Baner,Beverages,Wednesday,2024-10,26178.81
+S07,Annapurna Baner,Biscuits & Snacks,Friday,2024-10,6734.76
+S07,Annapurna Baner,Biscuits & Snacks,Monday,2024-10,8524.20
+S07,Annapurna Baner,Biscuits & Snacks,Saturday,2024-10,8482.73
+S07,Annapurna Baner,Biscuits & Snacks,Sunday,2024-10,13130.89
+S07,Annapurna Baner,Biscuits & Snacks,Thursday,2024-10,8216.14
+S07,Annapurna Baner,Biscuits & Snacks,Tuesday,2024-10,7457.75
+S07,Annapurna Baner,Biscuits & Snacks,Wednesday,2024-10,8517.29
+S07,Annapurna Baner,Confectionery,Friday,2024-10,11445.42
+S07,Annapurna Baner,Confectionery,Monday,2024-10,10335.67
+S07,Annapurna Baner,Confectionery,Saturday,2024-10,36646.43
+S07,Annapurna Baner,Confectionery,Sunday,2024-10,27492.56
+S07,Annapurna Baner,Confectionery,Thursday,2024-10,20407.70
+S07,Annapurna Baner,Confectionery,Tuesday,2024-10,13092.66
+S07,Annapurna Baner,Confectionery,Wednesday,2024-10,16670.49
+S07,Annapurna Baner,Dairy,Friday,2024-10,39348.66
+S07,Annapurna Baner,Dairy,Monday,2024-10,26584.31
+S07,Annapurna Baner,Dairy,Saturday,2024-10,65251.16
+S07,Annapurna Baner,Dairy,Sunday,2024-10,45527.11
+S07,Annapurna Baner,Dairy,Thursday,2024-10,57763.80
+S07,Annapurna Baner,Dairy,Tuesday,2024-10,36310.76
+S07,Annapurna Baner,Dairy,Wednesday,2024-10,60721.33
+S07,Annapurna Baner,Edible Oils,Friday,2024-10,80964.95
+S07,Annapurna Baner,Edible Oils,Monday,2024-10,64059.56
+S07,Annapurna Baner,Edible Oils,Saturday,2024-10,142987.82
+S07,Annapurna Baner,Edible Oils,Sunday,2024-10,134440.50
+S07,Annapurna Baner,Edible Oils,Thursday,2024-10,92722.98
+S07,Annapurna Baner,Edible Oils,Tuesday,2024-10,75836.73
+S07,Annapurna Baner,Edible Oils,Wednesday,2024-10,93906.48
+S07,Annapurna Baner,Frozen & Ready to Eat,Friday,2024-10,17303.64
+S07,Annapurna Baner,Frozen & Ready to Eat,Monday,2024-10,17826.10
+S07,Annapurna Baner,Frozen & Ready to Eat,Saturday,2024-10,46411.44
+S07,Annapurna Baner,Frozen & Ready to Eat,Sunday,2024-10,42904.75
+S07,Annapurna Baner,Frozen & Ready to Eat,Thursday,2024-10,36850.28
+S07,Annapurna Baner,Frozen & Ready to Eat,Tuesday,2024-10,29059.44
+S07,Annapurna Baner,Frozen & Ready to Eat,Wednesday,2024-10,22092.47
+S07,Annapurna Baner,Fruits & Vegetables,Friday,2024-10,17078.66
+S07,Annapurna Baner,Fruits & Vegetables,Monday,2024-10,13867.59
+S07,Annapurna Baner,Fruits & Vegetables,Saturday,2024-10,22921.73
+S07,Annapurna Baner,Fruits & Vegetables,Sunday,2024-10,23326.52
+S07,Annapurna Baner,Fruits & Vegetables,Thursday,2024-10,24831.87
+S07,Annapurna Baner,Fruits & Vegetables,Tuesday,2024-10,14674.13
+S07,Annapurna Baner,Fruits & Vegetables,Wednesday,2024-10,11472.07
+S07,Annapurna Baner,Home Care,Friday,2024-10,28106.24
+S07,Annapurna Baner,Home Care,Monday,2024-10,25440.94
+S07,Annapurna Baner,Home Care,Saturday,2024-10,45170.05
+S07,Annapurna Baner,Home Care,Sunday,2024-10,33248.61
+S07,Annapurna Baner,Home Care,Thursday,2024-10,33922.40
+S07,Annapurna Baner,Home Care,Tuesday,2024-10,18990.13
+S07,Annapurna Baner,Home Care,Wednesday,2024-10,28697.43
+S07,Annapurna Baner,Personal Care,Friday,2024-10,34302.70
+S07,Annapurna Baner,Personal Care,Monday,2024-10,23973.93
+S07,Annapurna Baner,Personal Care,Saturday,2024-10,54780.56
+S07,Annapurna Baner,Personal Care,Sunday,2024-10,41462.68
+S07,Annapurna Baner,Personal Care,Thursday,2024-10,38889.08
+S07,Annapurna Baner,Personal Care,Tuesday,2024-10,31360.18
+S07,Annapurna Baner,Personal Care,Wednesday,2024-10,45450.85
+S07,Annapurna Baner,Spices & Masala,Friday,2024-10,15069.72
+S07,Annapurna Baner,Spices & Masala,Monday,2024-10,11273.87
+S07,Annapurna Baner,Spices & Masala,Saturday,2024-10,26050.74
+S07,Annapurna Baner,Spices & Masala,Sunday,2024-10,23112.26
+S07,Annapurna Baner,Spices & Masala,Thursday,2024-10,20796.76
+S07,Annapurna Baner,Spices & Masala,Tuesday,2024-10,18600.53
+S07,Annapurna Baner,Spices & Masala,Wednesday,2024-10,15301.38
+S07,Annapurna Baner,Staples & Grains,Friday,2024-10,86251.36
+S07,Annapurna Baner,Staples & Grains,Monday,2024-10,63693.72
+S07,Annapurna Baner,Staples & Grains,Saturday,2024-10,151933.12
+S07,Annapurna Baner,Staples & Grains,Sunday,2024-10,161435.97
+S07,Annapurna Baner,Staples & Grains,Thursday,2024-10,102962.39
+S07,Annapurna Baner,Staples & Grains,Tuesday,2024-10,112366.63
+S07,Annapurna Baner,Staples & Grains,Wednesday,2024-10,94591.11
+S07,Annapurna Baner,Stationery & General,Friday,2024-10,33076.61
+S07,Annapurna Baner,Stationery & General,Monday,2024-10,14251.20
+S07,Annapurna Baner,Stationery & General,Saturday,2024-10,37328.89
+S07,Annapurna Baner,Stationery & General,Sunday,2024-10,41211.32
+S07,Annapurna Baner,Stationery & General,Thursday,2024-10,24370.02
+S07,Annapurna Baner,Stationery & General,Tuesday,2024-10,23884.55
+S07,Annapurna Baner,Stationery & General,Wednesday,2024-10,25984.19
+S08,Annapurna Satellite,Baby Care,Friday,2024-10,51817.82
+S08,Annapurna Satellite,Baby Care,Monday,2024-10,75294.94
+S08,Annapurna Satellite,Baby Care,Saturday,2024-10,94668.05
+S08,Annapurna Satellite,Baby Care,Sunday,2024-10,72554.78
+S08,Annapurna Satellite,Baby Care,Thursday,2024-10,84011.96
+S08,Annapurna Satellite,Baby Care,Tuesday,2024-10,90229.59
+S08,Annapurna Satellite,Baby Care,Wednesday,2024-10,72842.95
+S08,Annapurna Satellite,Bakery,Friday,2024-10,17428.83
+S08,Annapurna Satellite,Bakery,Monday,2024-10,8696.07
+S08,Annapurna Satellite,Bakery,Saturday,2024-10,14228.26
+S08,Annapurna Satellite,Bakery,Sunday,2024-10,19424.11
+S08,Annapurna Satellite,Bakery,Thursday,2024-10,13971.20
+S08,Annapurna Satellite,Bakery,Tuesday,2024-10,14805.37
+S08,Annapurna Satellite,Bakery,Wednesday,2024-10,16288.66
+S08,Annapurna Satellite,Beverages,Friday,2024-10,20837.67
+S08,Annapurna Satellite,Beverages,Monday,2024-10,23858.87
+S08,Annapurna Satellite,Beverages,Saturday,2024-10,37970.25
+S08,Annapurna Satellite,Beverages,Sunday,2024-10,28969.95
+S08,Annapurna Satellite,Beverages,Thursday,2024-10,21973.75
+S08,Annapurna Satellite,Beverages,Tuesday,2024-10,27905.01
+S08,Annapurna Satellite,Beverages,Wednesday,2024-10,28249.13
+S08,Annapurna Satellite,Biscuits & Snacks,Friday,2024-10,6859.99
+S08,Annapurna Satellite,Biscuits & Snacks,Monday,2024-10,6206.88
+S08,Annapurna Satellite,Biscuits & Snacks,Saturday,2024-10,7558.51
+S08,Annapurna Satellite,Biscuits & Snacks,Sunday,2024-10,10355.17
+S08,Annapurna Satellite,Biscuits & Snacks,Thursday,2024-10,6514.08
+S08,Annapurna Satellite,Biscuits & Snacks,Tuesday,2024-10,7335.15
+S08,Annapurna Satellite,Biscuits & Snacks,Wednesday,2024-10,6865.80
+S08,Annapurna Satellite,Confectionery,Friday,2024-10,12183.10
+S08,Annapurna Satellite,Confectionery,Monday,2024-10,17150.00
+S08,Annapurna Satellite,Confectionery,Saturday,2024-10,21804.27
+S08,Annapurna Satellite,Confectionery,Sunday,2024-10,23562.24
+S08,Annapurna Satellite,Confectionery,Thursday,2024-10,10402.38
+S08,Annapurna Satellite,Confectionery,Tuesday,2024-10,14437.18
+S08,Annapurna Satellite,Confectionery,Wednesday,2024-10,14288.81
+S08,Annapurna Satellite,Dairy,Friday,2024-10,35796.91
+S08,Annapurna Satellite,Dairy,Monday,2024-10,40386.13
+S08,Annapurna Satellite,Dairy,Saturday,2024-10,45208.82
+S08,Annapurna Satellite,Dairy,Sunday,2024-10,59358.16
+S08,Annapurna Satellite,Dairy,Thursday,2024-10,26603.02
+S08,Annapurna Satellite,Dairy,Tuesday,2024-10,32868.45
+S08,Annapurna Satellite,Dairy,Wednesday,2024-10,41875.95
+S08,Annapurna Satellite,Edible Oils,Friday,2024-10,68330.50
+S08,Annapurna Satellite,Edible Oils,Monday,2024-10,57139.61
+S08,Annapurna Satellite,Edible Oils,Saturday,2024-10,96129.42
+S08,Annapurna Satellite,Edible Oils,Sunday,2024-10,103382.59
+S08,Annapurna Satellite,Edible Oils,Thursday,2024-10,74886.82
+S08,Annapurna Satellite,Edible Oils,Tuesday,2024-10,85916.16
+S08,Annapurna Satellite,Edible Oils,Wednesday,2024-10,80129.18
+S08,Annapurna Satellite,Frozen & Ready to Eat,Friday,2024-10,19820.99
+S08,Annapurna Satellite,Frozen & Ready to Eat,Monday,2024-10,24515.16
+S08,Annapurna Satellite,Frozen & Ready to Eat,Saturday,2024-10,39128.48
+S08,Annapurna Satellite,Frozen & Ready to Eat,Sunday,2024-10,39497.27
+S08,Annapurna Satellite,Frozen & Ready to Eat,Thursday,2024-10,31226.28
+S08,Annapurna Satellite,Frozen & Ready to Eat,Tuesday,2024-10,29861.53
+S08,Annapurna Satellite,Frozen & Ready to Eat,Wednesday,2024-10,25544.55
+S08,Annapurna Satellite,Fruits & Vegetables,Friday,2024-10,14447.52
+S08,Annapurna Satellite,Fruits & Vegetables,Monday,2024-10,12555.52
+S08,Annapurna Satellite,Fruits & Vegetables,Saturday,2024-10,19361.33
+S08,Annapurna Satellite,Fruits & Vegetables,Sunday,2024-10,24777.21
+S08,Annapurna Satellite,Fruits & Vegetables,Thursday,2024-10,15684.99
+S08,Annapurna Satellite,Fruits & Vegetables,Tuesday,2024-10,16590.98
+S08,Annapurna Satellite,Fruits & Vegetables,Wednesday,2024-10,10687.56
+S08,Annapurna Satellite,Home Care,Friday,2024-10,12376.62
+S08,Annapurna Satellite,Home Care,Monday,2024-10,25851.55
+S08,Annapurna Satellite,Home Care,Saturday,2024-10,29476.32
+S08,Annapurna Satellite,Home Care,Sunday,2024-10,28318.03
+S08,Annapurna Satellite,Home Care,Thursday,2024-10,15526.38
+S08,Annapurna Satellite,Home Care,Tuesday,2024-10,24956.44
+S08,Annapurna Satellite,Home Care,Wednesday,2024-10,24771.91
+S08,Annapurna Satellite,Personal Care,Friday,2024-10,27937.98
+S08,Annapurna Satellite,Personal Care,Monday,2024-10,23784.78
+S08,Annapurna Satellite,Personal Care,Saturday,2024-10,64950.97
+S08,Annapurna Satellite,Personal Care,Sunday,2024-10,41224.18
+S08,Annapurna Satellite,Personal Care,Thursday,2024-10,30587.51
+S08,Annapurna Satellite,Personal Care,Tuesday,2024-10,35935.49
+S08,Annapurna Satellite,Personal Care,Wednesday,2024-10,30995.91
+S08,Annapurna Satellite,Spices & Masala,Friday,2024-10,13220.86
+S08,Annapurna Satellite,Spices & Masala,Monday,2024-10,6800.39
+S08,Annapurna Satellite,Spices & Masala,Saturday,2024-10,22877.87
+S08,Annapurna Satellite,Spices & Masala,Sunday,2024-10,21193.39
+S08,Annapurna Satellite,Spices & Masala,Thursday,2024-10,14174.68
+S08,Annapurna Satellite,Spices & Masala,Tuesday,2024-10,24037.81
+S08,Annapurna Satellite,Spices & Masala,Wednesday,2024-10,21285.01
+S08,Annapurna Satellite,Staples & Grains,Friday,2024-10,61001.07
+S08,Annapurna Satellite,Staples & Grains,Monday,2024-10,44128.98
+S08,Annapurna Satellite,Staples & Grains,Saturday,2024-10,111372.77
+S08,Annapurna Satellite,Staples & Grains,Sunday,2024-10,86417.19
+S08,Annapurna Satellite,Staples & Grains,Thursday,2024-10,65141.79
+S08,Annapurna Satellite,Staples & Grains,Tuesday,2024-10,121316.14
+S08,Annapurna Satellite,Staples & Grains,Wednesday,2024-10,103566.14
+S08,Annapurna Satellite,Stationery & General,Friday,2024-10,14789.80
+S08,Annapurna Satellite,Stationery & General,Monday,2024-10,21834.21
+S08,Annapurna Satellite,Stationery & General,Saturday,2024-10,34043.30
+S08,Annapurna Satellite,Stationery & General,Sunday,2024-10,34472.92
+S08,Annapurna Satellite,Stationery & General,Thursday,2024-10,20113.11
+S08,Annapurna Satellite,Stationery & General,Tuesday,2024-10,27357.93
+S08,Annapurna Satellite,Stationery & General,Wednesday,2024-10,18740.27
+S09,Annapurna Vaishali,Baby Care,Friday,2024-10,98746.68
+S09,Annapurna Vaishali,Baby Care,Monday,2024-10,48624.81
+S09,Annapurna Vaishali,Baby Care,Saturday,2024-10,88548.23
+S09,Annapurna Vaishali,Baby Care,Sunday,2024-10,99941.68
+S09,Annapurna Vaishali,Baby Care,Thursday,2024-10,73921.48
+S09,Annapurna Vaishali,Baby Care,Tuesday,2024-10,37068.83
+S09,Annapurna Vaishali,Baby Care,Wednesday,2024-10,67803.68
+S09,Annapurna Vaishali,Bakery,Friday,2024-10,9168.79
+S09,Annapurna Vaishali,Bakery,Monday,2024-10,6032.06
+S09,Annapurna Vaishali,Bakery,Saturday,2024-10,14144.84
+S09,Annapurna Vaishali,Bakery,Sunday,2024-10,10398.99
+S09,Annapurna Vaishali,Bakery,Thursday,2024-10,9035.16
+S09,Annapurna Vaishali,Bakery,Tuesday,2024-10,7866.97
+S09,Annapurna Vaishali,Bakery,Wednesday,2024-10,9041.37
+S09,Annapurna Vaishali,Beverages,Friday,2024-10,26846.24
+S09,Annapurna Vaishali,Beverages,Monday,2024-10,14581.90
+S09,Annapurna Vaishali,Beverages,Saturday,2024-10,27054.29
+S09,Annapurna Vaishali,Beverages,Sunday,2024-10,24298.55
+S09,Annapurna Vaishali,Beverages,Thursday,2024-10,21674.78
+S09,Annapurna Vaishali,Beverages,Tuesday,2024-10,13105.27
+S09,Annapurna Vaishali,Beverages,Wednesday,2024-10,23990.63
+S09,Annapurna Vaishali,Biscuits & Snacks,Friday,2024-10,5587.05
+S09,Annapurna Vaishali,Biscuits & Snacks,Monday,2024-10,5421.00
+S09,Annapurna Vaishali,Biscuits & Snacks,Saturday,2024-10,7983.04
+S09,Annapurna Vaishali,Biscuits & Snacks,Sunday,2024-10,6045.79
+S09,Annapurna Vaishali,Biscuits & Snacks,Thursday,2024-10,3780.62
+S09,Annapurna Vaishali,Biscuits & Snacks,Tuesday,2024-10,3101.06
+S09,Annapurna Vaishali,Biscuits & Snacks,Wednesday,2024-10,8313.42
+S09,Annapurna Vaishali,Confectionery,Friday,2024-10,19249.48
+S09,Annapurna Vaishali,Confectionery,Monday,2024-10,10408.48
+S09,Annapurna Vaishali,Confectionery,Saturday,2024-10,15875.93
+S09,Annapurna Vaishali,Confectionery,Sunday,2024-10,12511.12
+S09,Annapurna Vaishali,Confectionery,Thursday,2024-10,16046.78
+S09,Annapurna Vaishali,Confectionery,Tuesday,2024-10,8601.01
+S09,Annapurna Vaishali,Confectionery,Wednesday,2024-10,18056.82
+S09,Annapurna Vaishali,Dairy,Friday,2024-10,28408.18
+S09,Annapurna Vaishali,Dairy,Monday,2024-10,23221.72
+S09,Annapurna Vaishali,Dairy,Saturday,2024-10,35325.87
+S09,Annapurna Vaishali,Dairy,Sunday,2024-10,37039.42
+S09,Annapurna Vaishali,Dairy,Thursday,2024-10,22217.68
+S09,Annapurna Vaishali,Dairy,Tuesday,2024-10,24483.30
+S09,Annapurna Vaishali,Dairy,Wednesday,2024-10,30635.04
+S09,Annapurna Vaishali,Edible Oils,Friday,2024-10,80180.97
+S09,Annapurna Vaishali,Edible Oils,Monday,2024-10,44777.27
+S09,Annapurna Vaishali,Edible Oils,Saturday,2024-10,92059.00
+S09,Annapurna Vaishali,Edible Oils,Sunday,2024-10,89299.99
+S09,Annapurna Vaishali,Edible Oils,Thursday,2024-10,44191.12
+S09,Annapurna Vaishali,Edible Oils,Tuesday,2024-10,55070.48
+S09,Annapurna Vaishali,Edible Oils,Wednesday,2024-10,52694.55
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Friday,2024-10,29968.61
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Monday,2024-10,23672.54
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Saturday,2024-10,26891.58
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Sunday,2024-10,18352.65
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Thursday,2024-10,19822.24
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Tuesday,2024-10,22629.50
+S09,Annapurna Vaishali,Frozen & Ready to Eat,Wednesday,2024-10,16249.92
+S09,Annapurna Vaishali,Fruits & Vegetables,Friday,2024-10,11667.83
+S09,Annapurna Vaishali,Fruits & Vegetables,Monday,2024-10,6623.27
+S09,Annapurna Vaishali,Fruits & Vegetables,Saturday,2024-10,16411.81
+S09,Annapurna Vaishali,Fruits & Vegetables,Sunday,2024-10,13464.76
+S09,Annapurna Vaishali,Fruits & Vegetables,Thursday,2024-10,6727.55
+S09,Annapurna Vaishali,Fruits & Vegetables,Tuesday,2024-10,7410.53
+S09,Annapurna Vaishali,Fruits & Vegetables,Wednesday,2024-10,13381.63
+S09,Annapurna Vaishali,Home Care,Friday,2024-10,32905.62
+S09,Annapurna Vaishali,Home Care,Monday,2024-10,11418.86
+S09,Annapurna Vaishali,Home Care,Saturday,2024-10,27131.21
+S09,Annapurna Vaishali,Home Care,Sunday,2024-10,21716.39
+S09,Annapurna Vaishali,Home Care,Thursday,2024-10,20636.71
+S09,Annapurna Vaishali,Home Care,Tuesday,2024-10,10791.23
+S09,Annapurna Vaishali,Home Care,Wednesday,2024-10,23159.90
+S09,Annapurna Vaishali,Personal Care,Friday,2024-10,33263.47
+S09,Annapurna Vaishali,Personal Care,Monday,2024-10,20879.50
+S09,Annapurna Vaishali,Personal Care,Saturday,2024-10,32964.70
+S09,Annapurna Vaishali,Personal Care,Sunday,2024-10,33377.67
+S09,Annapurna Vaishali,Personal Care,Thursday,2024-10,20932.01
+S09,Annapurna Vaishali,Personal Care,Tuesday,2024-10,19418.01
+S09,Annapurna Vaishali,Personal Care,Wednesday,2024-10,36587.35
+S09,Annapurna Vaishali,Spices & Masala,Friday,2024-10,18025.00
+S09,Annapurna Vaishali,Spices & Masala,Monday,2024-10,13248.31
+S09,Annapurna Vaishali,Spices & Masala,Saturday,2024-10,14917.91
+S09,Annapurna Vaishali,Spices & Masala,Sunday,2024-10,15670.84
+S09,Annapurna Vaishali,Spices & Masala,Thursday,2024-10,13919.30
+S09,Annapurna Vaishali,Spices & Masala,Tuesday,2024-10,14175.27
+S09,Annapurna Vaishali,Spices & Masala,Wednesday,2024-10,16166.03
+S09,Annapurna Vaishali,Staples & Grains,Friday,2024-10,87653.52
+S09,Annapurna Vaishali,Staples & Grains,Monday,2024-10,42232.81
+S09,Annapurna Vaishali,Staples & Grains,Saturday,2024-10,119257.73
+S09,Annapurna Vaishali,Staples & Grains,Sunday,2024-10,68006.02
+S09,Annapurna Vaishali,Staples & Grains,Thursday,2024-10,45349.39
+S09,Annapurna Vaishali,Staples & Grains,Tuesday,2024-10,42609.81
+S09,Annapurna Vaishali,Staples & Grains,Wednesday,2024-10,86371.61
+S09,Annapurna Vaishali,Stationery & General,Friday,2024-10,23301.24
+S09,Annapurna Vaishali,Stationery & General,Monday,2024-10,18329.10
+S09,Annapurna Vaishali,Stationery & General,Saturday,2024-10,25666.00
+S09,Annapurna Vaishali,Stationery & General,Sunday,2024-10,21037.76
+S09,Annapurna Vaishali,Stationery & General,Thursday,2024-10,23592.90
+S09,Annapurna Vaishali,Stationery & General,Tuesday,2024-10,16691.61
+S09,Annapurna Vaishali,Stationery & General,Wednesday,2024-10,21804.12
+S10,Annapurna Rajouri Garden,Baby Care,Friday,2024-10,151347.84
+S10,Annapurna Rajouri Garden,Baby Care,Monday,2024-10,127327.58
+S10,Annapurna Rajouri Garden,Baby Care,Saturday,2024-10,177554.54
+S10,Annapurna Rajouri Garden,Baby Care,Sunday,2024-10,184690.68
+S10,Annapurna Rajouri Garden,Baby Care,Thursday,2024-10,202304.57
+S10,Annapurna Rajouri Garden,Baby Care,Tuesday,2024-10,104872.53
+S10,Annapurna Rajouri Garden,Baby Care,Wednesday,2024-10,122047.00
+S10,Annapurna Rajouri Garden,Bakery,Friday,2024-10,27353.68
+S10,Annapurna Rajouri Garden,Bakery,Monday,2024-10,16688.29
+S10,Annapurna Rajouri Garden,Bakery,Saturday,2024-10,28905.79
+S10,Annapurna Rajouri Garden,Bakery,Sunday,2024-10,29765.84
+S10,Annapurna Rajouri Garden,Bakery,Thursday,2024-10,25403.05
+S10,Annapurna Rajouri Garden,Bakery,Tuesday,2024-10,14399.72
+S10,Annapurna Rajouri Garden,Bakery,Wednesday,2024-10,18210.16
+S10,Annapurna Rajouri Garden,Beverages,Friday,2024-10,33067.36
+S10,Annapurna Rajouri Garden,Beverages,Monday,2024-10,42067.39
+S10,Annapurna Rajouri Garden,Beverages,Saturday,2024-10,40087.32
+S10,Annapurna Rajouri Garden,Beverages,Sunday,2024-10,67644.65
+S10,Annapurna Rajouri Garden,Beverages,Thursday,2024-10,45920.74
+S10,Annapurna Rajouri Garden,Beverages,Tuesday,2024-10,28037.26
+S10,Annapurna Rajouri Garden,Beverages,Wednesday,2024-10,33764.78
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Friday,2024-10,12296.26
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Monday,2024-10,9554.09
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Saturday,2024-10,15845.30
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Sunday,2024-10,15711.10
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Thursday,2024-10,13841.90
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Tuesday,2024-10,9175.83
+S10,Annapurna Rajouri Garden,Biscuits & Snacks,Wednesday,2024-10,11704.10
+S10,Annapurna Rajouri Garden,Confectionery,Friday,2024-10,39098.29
+S10,Annapurna Rajouri Garden,Confectionery,Monday,2024-10,20373.34
+S10,Annapurna Rajouri Garden,Confectionery,Saturday,2024-10,45957.94
+S10,Annapurna Rajouri Garden,Confectionery,Sunday,2024-10,31144.38
+S10,Annapurna Rajouri Garden,Confectionery,Thursday,2024-10,30349.95
+S10,Annapurna Rajouri Garden,Confectionery,Tuesday,2024-10,20344.03
+S10,Annapurna Rajouri Garden,Confectionery,Wednesday,2024-10,23997.41
+S10,Annapurna Rajouri Garden,Dairy,Friday,2024-10,63075.82
+S10,Annapurna Rajouri Garden,Dairy,Monday,2024-10,51564.20
+S10,Annapurna Rajouri Garden,Dairy,Saturday,2024-10,96726.39
+S10,Annapurna Rajouri Garden,Dairy,Sunday,2024-10,88021.78
+S10,Annapurna Rajouri Garden,Dairy,Thursday,2024-10,77069.55
+S10,Annapurna Rajouri Garden,Dairy,Tuesday,2024-10,55658.95
+S10,Annapurna Rajouri Garden,Dairy,Wednesday,2024-10,63403.93
+S10,Annapurna Rajouri Garden,Edible Oils,Friday,2024-10,137283.48
+S10,Annapurna Rajouri Garden,Edible Oils,Monday,2024-10,100221.36
+S10,Annapurna Rajouri Garden,Edible Oils,Saturday,2024-10,195531.44
+S10,Annapurna Rajouri Garden,Edible Oils,Sunday,2024-10,164276.06
+S10,Annapurna Rajouri Garden,Edible Oils,Thursday,2024-10,164371.61
+S10,Annapurna Rajouri Garden,Edible Oils,Tuesday,2024-10,133065.82
+S10,Annapurna Rajouri Garden,Edible Oils,Wednesday,2024-10,132273.19
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Friday,2024-10,44544.21
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Monday,2024-10,45176.90
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Saturday,2024-10,60734.93
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Sunday,2024-10,63403.38
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Thursday,2024-10,59022.68
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Tuesday,2024-10,42306.54
+S10,Annapurna Rajouri Garden,Frozen & Ready to Eat,Wednesday,2024-10,45662.78
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Friday,2024-10,27199.99
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Monday,2024-10,17367.25
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Saturday,2024-10,28986.50
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Sunday,2024-10,34216.15
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Thursday,2024-10,27585.25
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Tuesday,2024-10,24900.69
+S10,Annapurna Rajouri Garden,Fruits & Vegetables,Wednesday,2024-10,23129.58
+S10,Annapurna Rajouri Garden,Home Care,Friday,2024-10,68881.71
+S10,Annapurna Rajouri Garden,Home Care,Monday,2024-10,39212.13
+S10,Annapurna Rajouri Garden,Home Care,Saturday,2024-10,59378.67
+S10,Annapurna Rajouri Garden,Home Care,Sunday,2024-10,72044.94
+S10,Annapurna Rajouri Garden,Home Care,Thursday,2024-10,45756.24
+S10,Annapurna Rajouri Garden,Home Care,Tuesday,2024-10,46438.97
+S10,Annapurna Rajouri Garden,Home Care,Wednesday,2024-10,31353.57
+S10,Annapurna Rajouri Garden,Personal Care,Friday,2024-10,73669.96
+S10,Annapurna Rajouri Garden,Personal Care,Monday,2024-10,46872.10
+S10,Annapurna Rajouri Garden,Personal Care,Saturday,2024-10,92625.89
+S10,Annapurna Rajouri Garden,Personal Care,Sunday,2024-10,71855.54
+S10,Annapurna Rajouri Garden,Personal Care,Thursday,2024-10,63723.83
+S10,Annapurna Rajouri Garden,Personal Care,Tuesday,2024-10,47057.74
+S10,Annapurna Rajouri Garden,Personal Care,Wednesday,2024-10,87898.82
+S10,Annapurna Rajouri Garden,Spices & Masala,Friday,2024-10,33635.47
+S10,Annapurna Rajouri Garden,Spices & Masala,Monday,2024-10,24977.10
+S10,Annapurna Rajouri Garden,Spices & Masala,Saturday,2024-10,43726.10
+S10,Annapurna Rajouri Garden,Spices & Masala,Sunday,2024-10,35389.94
+S10,Annapurna Rajouri Garden,Spices & Masala,Thursday,2024-10,27775.05
+S10,Annapurna Rajouri Garden,Spices & Masala,Tuesday,2024-10,31157.99
+S10,Annapurna Rajouri Garden,Spices & Masala,Wednesday,2024-10,27422.60
+S10,Annapurna Rajouri Garden,Staples & Grains,Friday,2024-10,179911.40
+S10,Annapurna Rajouri Garden,Staples & Grains,Monday,2024-10,171798.81
+S10,Annapurna Rajouri Garden,Staples & Grains,Saturday,2024-10,165069.39
+S10,Annapurna Rajouri Garden,Staples & Grains,Sunday,2024-10,234963.28
+S10,Annapurna Rajouri Garden,Staples & Grains,Thursday,2024-10,188817.45
+S10,Annapurna Rajouri Garden,Staples & Grains,Tuesday,2024-10,121437.21
+S10,Annapurna Rajouri Garden,Staples & Grains,Wednesday,2024-10,123802.54
+S10,Annapurna Rajouri Garden,Stationery & General,Friday,2024-10,64239.14
+S10,Annapurna Rajouri Garden,Stationery & General,Monday,2024-10,37773.63
+S10,Annapurna Rajouri Garden,Stationery & General,Saturday,2024-10,54602.65
+S10,Annapurna Rajouri Garden,Stationery & General,Sunday,2024-10,59556.84
+S10,Annapurna Rajouri Garden,Stationery & General,Thursday,2024-10,46777.41
+S10,Annapurna Rajouri Garden,Stationery & General,Tuesday,2024-10,35431.88
+S10,Annapurna Rajouri Garden,Stationery & General,Wednesday,2024-10,40750.58
+S11,Annapurna Gomti Nagar,Baby Care,Friday,2024-10,103056.00
+S11,Annapurna Gomti Nagar,Baby Care,Monday,2024-10,53713.02
+S11,Annapurna Gomti Nagar,Baby Care,Saturday,2024-10,81584.83
+S11,Annapurna Gomti Nagar,Baby Care,Sunday,2024-10,95937.08
+S11,Annapurna Gomti Nagar,Baby Care,Thursday,2024-10,80726.87
+S11,Annapurna Gomti Nagar,Baby Care,Tuesday,2024-10,66309.06
+S11,Annapurna Gomti Nagar,Baby Care,Wednesday,2024-10,88525.99
+S11,Annapurna Gomti Nagar,Bakery,Friday,2024-10,8981.29
+S11,Annapurna Gomti Nagar,Bakery,Monday,2024-10,8468.49
+S11,Annapurna Gomti Nagar,Bakery,Saturday,2024-10,17386.95
+S11,Annapurna Gomti Nagar,Bakery,Sunday,2024-10,21859.78
+S11,Annapurna Gomti Nagar,Bakery,Thursday,2024-10,11846.81
+S11,Annapurna Gomti Nagar,Bakery,Tuesday,2024-10,8093.70
+S11,Annapurna Gomti Nagar,Bakery,Wednesday,2024-10,10752.34
+S11,Annapurna Gomti Nagar,Beverages,Friday,2024-10,24417.82
+S11,Annapurna Gomti Nagar,Beverages,Monday,2024-10,15221.66
+S11,Annapurna Gomti Nagar,Beverages,Saturday,2024-10,34204.45
+S11,Annapurna Gomti Nagar,Beverages,Sunday,2024-10,26712.54
+S11,Annapurna Gomti Nagar,Beverages,Thursday,2024-10,28341.15
+S11,Annapurna Gomti Nagar,Beverages,Tuesday,2024-10,13715.50
+S11,Annapurna Gomti Nagar,Beverages,Wednesday,2024-10,26945.54
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Friday,2024-10,7058.10
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Monday,2024-10,6770.44
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Saturday,2024-10,9230.71
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Sunday,2024-10,6074.84
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Thursday,2024-10,4580.15
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Tuesday,2024-10,5525.69
+S11,Annapurna Gomti Nagar,Biscuits & Snacks,Wednesday,2024-10,5318.92
+S11,Annapurna Gomti Nagar,Confectionery,Friday,2024-10,16020.87
+S11,Annapurna Gomti Nagar,Confectionery,Monday,2024-10,11081.31
+S11,Annapurna Gomti Nagar,Confectionery,Saturday,2024-10,12082.68
+S11,Annapurna Gomti Nagar,Confectionery,Sunday,2024-10,21748.54
+S11,Annapurna Gomti Nagar,Confectionery,Thursday,2024-10,14501.03
+S11,Annapurna Gomti Nagar,Confectionery,Tuesday,2024-10,11038.61
+S11,Annapurna Gomti Nagar,Confectionery,Wednesday,2024-10,18333.26
+S11,Annapurna Gomti Nagar,Dairy,Friday,2024-10,35879.67
+S11,Annapurna Gomti Nagar,Dairy,Monday,2024-10,31352.66
+S11,Annapurna Gomti Nagar,Dairy,Saturday,2024-10,46300.94
+S11,Annapurna Gomti Nagar,Dairy,Sunday,2024-10,43208.06
+S11,Annapurna Gomti Nagar,Dairy,Thursday,2024-10,30456.16
+S11,Annapurna Gomti Nagar,Dairy,Tuesday,2024-10,24020.35
+S11,Annapurna Gomti Nagar,Dairy,Wednesday,2024-10,26539.55
+S11,Annapurna Gomti Nagar,Edible Oils,Friday,2024-10,90746.54
+S11,Annapurna Gomti Nagar,Edible Oils,Monday,2024-10,51654.71
+S11,Annapurna Gomti Nagar,Edible Oils,Saturday,2024-10,82102.57
+S11,Annapurna Gomti Nagar,Edible Oils,Sunday,2024-10,83520.72
+S11,Annapurna Gomti Nagar,Edible Oils,Thursday,2024-10,72159.16
+S11,Annapurna Gomti Nagar,Edible Oils,Tuesday,2024-10,55933.54
+S11,Annapurna Gomti Nagar,Edible Oils,Wednesday,2024-10,61314.81
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Friday,2024-10,33952.80
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Monday,2024-10,15415.99
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Saturday,2024-10,42140.37
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Sunday,2024-10,38559.65
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Thursday,2024-10,26876.85
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Tuesday,2024-10,25260.48
+S11,Annapurna Gomti Nagar,Frozen & Ready to Eat,Wednesday,2024-10,23857.14
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Friday,2024-10,16738.34
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Monday,2024-10,9941.94
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Saturday,2024-10,19443.34
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Sunday,2024-10,20034.92
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Thursday,2024-10,15298.45
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Tuesday,2024-10,14807.89
+S11,Annapurna Gomti Nagar,Fruits & Vegetables,Wednesday,2024-10,13264.05
+S11,Annapurna Gomti Nagar,Home Care,Friday,2024-10,25620.83
+S11,Annapurna Gomti Nagar,Home Care,Monday,2024-10,25966.75
+S11,Annapurna Gomti Nagar,Home Care,Saturday,2024-10,33302.12
+S11,Annapurna Gomti Nagar,Home Care,Sunday,2024-10,35223.79
+S11,Annapurna Gomti Nagar,Home Care,Thursday,2024-10,30627.03
+S11,Annapurna Gomti Nagar,Home Care,Tuesday,2024-10,17844.32
+S11,Annapurna Gomti Nagar,Home Care,Wednesday,2024-10,28852.96
+S11,Annapurna Gomti Nagar,Personal Care,Friday,2024-10,41970.35
+S11,Annapurna Gomti Nagar,Personal Care,Monday,2024-10,36506.03
+S11,Annapurna Gomti Nagar,Personal Care,Saturday,2024-10,40631.39
+S11,Annapurna Gomti Nagar,Personal Care,Sunday,2024-10,43774.13
+S11,Annapurna Gomti Nagar,Personal Care,Thursday,2024-10,35265.18
+S11,Annapurna Gomti Nagar,Personal Care,Tuesday,2024-10,19887.28
+S11,Annapurna Gomti Nagar,Personal Care,Wednesday,2024-10,37022.82
+S11,Annapurna Gomti Nagar,Spices & Masala,Friday,2024-10,17049.73
+S11,Annapurna Gomti Nagar,Spices & Masala,Monday,2024-10,11372.86
+S11,Annapurna Gomti Nagar,Spices & Masala,Saturday,2024-10,18135.60
+S11,Annapurna Gomti Nagar,Spices & Masala,Sunday,2024-10,18846.96
+S11,Annapurna Gomti Nagar,Spices & Masala,Thursday,2024-10,15092.53
+S11,Annapurna Gomti Nagar,Spices & Masala,Tuesday,2024-10,15703.21
+S11,Annapurna Gomti Nagar,Spices & Masala,Wednesday,2024-10,9525.98
+S11,Annapurna Gomti Nagar,Staples & Grains,Friday,2024-10,88156.87
+S11,Annapurna Gomti Nagar,Staples & Grains,Monday,2024-10,57181.80
+S11,Annapurna Gomti Nagar,Staples & Grains,Saturday,2024-10,107459.67
+S11,Annapurna Gomti Nagar,Staples & Grains,Sunday,2024-10,158057.23
+S11,Annapurna Gomti Nagar,Staples & Grains,Thursday,2024-10,81212.63
+S11,Annapurna Gomti Nagar,Staples & Grains,Tuesday,2024-10,84918.02
+S11,Annapurna Gomti Nagar,Staples & Grains,Wednesday,2024-10,90804.23
+S11,Annapurna Gomti Nagar,Stationery & General,Friday,2024-10,32434.36
+S11,Annapurna Gomti Nagar,Stationery & General,Monday,2024-10,19410.47
+S11,Annapurna Gomti Nagar,Stationery & General,Saturday,2024-10,38298.50
+S11,Annapurna Gomti Nagar,Stationery & General,Sunday,2024-10,32590.57
+S11,Annapurna Gomti Nagar,Stationery & General,Thursday,2024-10,24032.85
+S11,Annapurna Gomti Nagar,Stationery & General,Tuesday,2024-10,20530.83
+S11,Annapurna Gomti Nagar,Stationery & General,Wednesday,2024-10,25084.12
+S12,Annapurna Salt Lake,Baby Care,Friday,2024-10,116700.98
+S12,Annapurna Salt Lake,Baby Care,Monday,2024-10,59485.88
+S12,Annapurna Salt Lake,Baby Care,Saturday,2024-10,181330.23
+S12,Annapurna Salt Lake,Baby Care,Sunday,2024-10,94417.71
+S12,Annapurna Salt Lake,Baby Care,Thursday,2024-10,93509.75
+S12,Annapurna Salt Lake,Baby Care,Tuesday,2024-10,108830.02
+S12,Annapurna Salt Lake,Baby Care,Wednesday,2024-10,113521.30
+S12,Annapurna Salt Lake,Bakery,Friday,2024-10,15559.23
+S12,Annapurna Salt Lake,Bakery,Monday,2024-10,12330.52
+S12,Annapurna Salt Lake,Bakery,Saturday,2024-10,18814.69
+S12,Annapurna Salt Lake,Bakery,Sunday,2024-10,18535.32
+S12,Annapurna Salt Lake,Bakery,Thursday,2024-10,24672.53
+S12,Annapurna Salt Lake,Bakery,Tuesday,2024-10,16266.68
+S12,Annapurna Salt Lake,Bakery,Wednesday,2024-10,15096.29
+S12,Annapurna Salt Lake,Beverages,Friday,2024-10,28872.90
+S12,Annapurna Salt Lake,Beverages,Monday,2024-10,23141.81
+S12,Annapurna Salt Lake,Beverages,Saturday,2024-10,45044.65
+S12,Annapurna Salt Lake,Beverages,Sunday,2024-10,41379.39
+S12,Annapurna Salt Lake,Beverages,Thursday,2024-10,36106.77
+S12,Annapurna Salt Lake,Beverages,Tuesday,2024-10,32895.64
+S12,Annapurna Salt Lake,Beverages,Wednesday,2024-10,30308.11
+S12,Annapurna Salt Lake,Biscuits & Snacks,Friday,2024-10,7912.87
+S12,Annapurna Salt Lake,Biscuits & Snacks,Monday,2024-10,5776.05
+S12,Annapurna Salt Lake,Biscuits & Snacks,Saturday,2024-10,10944.96
+S12,Annapurna Salt Lake,Biscuits & Snacks,Sunday,2024-10,9241.87
+S12,Annapurna Salt Lake,Biscuits & Snacks,Thursday,2024-10,8691.25
+S12,Annapurna Salt Lake,Biscuits & Snacks,Tuesday,2024-10,10679.96
+S12,Annapurna Salt Lake,Biscuits & Snacks,Wednesday,2024-10,8513.89
+S12,Annapurna Salt Lake,Confectionery,Friday,2024-10,19421.50
+S12,Annapurna Salt Lake,Confectionery,Monday,2024-10,12811.05
+S12,Annapurna Salt Lake,Confectionery,Saturday,2024-10,33305.64
+S12,Annapurna Salt Lake,Confectionery,Sunday,2024-10,21167.21
+S12,Annapurna Salt Lake,Confectionery,Thursday,2024-10,19987.95
+S12,Annapurna Salt Lake,Confectionery,Tuesday,2024-10,20044.58
+S12,Annapurna Salt Lake,Confectionery,Wednesday,2024-10,20761.36
+S12,Annapurna Salt Lake,Dairy,Friday,2024-10,36454.83
+S12,Annapurna Salt Lake,Dairy,Monday,2024-10,31212.54
+S12,Annapurna Salt Lake,Dairy,Saturday,2024-10,68373.55
+S12,Annapurna Salt Lake,Dairy,Sunday,2024-10,59724.99
+S12,Annapurna Salt Lake,Dairy,Thursday,2024-10,52957.16
+S12,Annapurna Salt Lake,Dairy,Tuesday,2024-10,56406.13
+S12,Annapurna Salt Lake,Dairy,Wednesday,2024-10,44137.52
+S12,Annapurna Salt Lake,Edible Oils,Friday,2024-10,129741.06
+S12,Annapurna Salt Lake,Edible Oils,Monday,2024-10,51453.40
+S12,Annapurna Salt Lake,Edible Oils,Saturday,2024-10,131140.50
+S12,Annapurna Salt Lake,Edible Oils,Sunday,2024-10,112222.29
+S12,Annapurna Salt Lake,Edible Oils,Thursday,2024-10,106151.70
+S12,Annapurna Salt Lake,Edible Oils,Tuesday,2024-10,117423.26
+S12,Annapurna Salt Lake,Edible Oils,Wednesday,2024-10,107318.83
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Friday,2024-10,45979.81
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Monday,2024-10,38092.39
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Saturday,2024-10,51405.84
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Sunday,2024-10,45440.89
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Thursday,2024-10,40506.22
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Tuesday,2024-10,47581.47
+S12,Annapurna Salt Lake,Frozen & Ready to Eat,Wednesday,2024-10,42995.87
+S12,Annapurna Salt Lake,Fruits & Vegetables,Friday,2024-10,20311.19
+S12,Annapurna Salt Lake,Fruits & Vegetables,Monday,2024-10,12169.82
+S12,Annapurna Salt Lake,Fruits & Vegetables,Saturday,2024-10,26866.16
+S12,Annapurna Salt Lake,Fruits & Vegetables,Sunday,2024-10,20434.57
+S12,Annapurna Salt Lake,Fruits & Vegetables,Thursday,2024-10,17037.55
+S12,Annapurna Salt Lake,Fruits & Vegetables,Tuesday,2024-10,20774.26
+S12,Annapurna Salt Lake,Fruits & Vegetables,Wednesday,2024-10,14020.02
+S12,Annapurna Salt Lake,Home Care,Friday,2024-10,31919.64
+S12,Annapurna Salt Lake,Home Care,Monday,2024-10,33324.61
+S12,Annapurna Salt Lake,Home Care,Saturday,2024-10,46815.74
+S12,Annapurna Salt Lake,Home Care,Sunday,2024-10,37754.15
+S12,Annapurna Salt Lake,Home Care,Thursday,2024-10,32142.66
+S12,Annapurna Salt Lake,Home Care,Tuesday,2024-10,40834.18
+S12,Annapurna Salt Lake,Home Care,Wednesday,2024-10,30920.25
+S12,Annapurna Salt Lake,Personal Care,Friday,2024-10,40132.12
+S12,Annapurna Salt Lake,Personal Care,Monday,2024-10,39260.57
+S12,Annapurna Salt Lake,Personal Care,Saturday,2024-10,71574.87
+S12,Annapurna Salt Lake,Personal Care,Sunday,2024-10,56502.43
+S12,Annapurna Salt Lake,Personal Care,Thursday,2024-10,49681.98
+S12,Annapurna Salt Lake,Personal Care,Tuesday,2024-10,49255.75
+S12,Annapurna Salt Lake,Personal Care,Wednesday,2024-10,36431.73
+S12,Annapurna Salt Lake,Spices & Masala,Friday,2024-10,19665.59
+S12,Annapurna Salt Lake,Spices & Masala,Monday,2024-10,18129.71
+S12,Annapurna Salt Lake,Spices & Masala,Saturday,2024-10,27724.31
+S12,Annapurna Salt Lake,Spices & Masala,Sunday,2024-10,26564.51
+S12,Annapurna Salt Lake,Spices & Masala,Thursday,2024-10,21086.33
+S12,Annapurna Salt Lake,Spices & Masala,Tuesday,2024-10,26182.38
+S12,Annapurna Salt Lake,Spices & Masala,Wednesday,2024-10,15641.40
+S12,Annapurna Salt Lake,Staples & Grains,Friday,2024-10,90811.25
+S12,Annapurna Salt Lake,Staples & Grains,Monday,2024-10,83252.16
+S12,Annapurna Salt Lake,Staples & Grains,Saturday,2024-10,178491.67
+S12,Annapurna Salt Lake,Staples & Grains,Sunday,2024-10,123421.72
+S12,Annapurna Salt Lake,Staples & Grains,Thursday,2024-10,126166.80
+S12,Annapurna Salt Lake,Staples & Grains,Tuesday,2024-10,156812.27
+S12,Annapurna Salt Lake,Staples & Grains,Wednesday,2024-10,165158.10
+S12,Annapurna Salt Lake,Stationery & General,Friday,2024-10,35724.93
+S12,Annapurna Salt Lake,Stationery & General,Monday,2024-10,24077.17
+S12,Annapurna Salt Lake,Stationery & General,Saturday,2024-10,46942.44
+S12,Annapurna Salt Lake,Stationery & General,Sunday,2024-10,40392.83
+S12,Annapurna Salt Lake,Stationery & General,Thursday,2024-10,30329.78
+S12,Annapurna Salt Lake,Stationery & General,Tuesday,2024-10,38852.64
+S12,Annapurna Salt Lake,Stationery & General,Wednesday,2024-10,37194.62
