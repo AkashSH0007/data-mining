@@ -1,0 +1,197 @@
+{
+  "notices": 12000,
+  "labels": 900,
+  "build_seconds": 65.11303960000077,
+  "signature_size": 64,
+  "bands": 16,
+  "rows_per_band": 4,
+  "candidate_mean": 1463.7305,
+  "candidate_p95": 2936,
+  "candidate_max": 4379,
+  "hot_portals": [
+    [
+      "P094",
+      1426
+    ],
+    [
+      "P002",
+      800
+    ],
+    [
+      "P006",
+      792
+    ],
+    [
+      "P001",
+      778
+    ],
+    [
+      "P003",
+      772
+    ],
+    [
+      "P005",
+      768
+    ],
+    [
+      "P004",
+      755
+    ],
+    [
+      "P020",
+      384
+    ],
+    [
+      "P240",
+      377
+    ],
+    [
+      "P044",
+      224
+    ],
+    [
+      "P215",
+      153
+    ],
+    [
+      "P181",
+      133
+    ],
+    [
+      "P013",
+      110
+    ],
+    [
+      "P227",
+      107
+    ],
+    [
+      "P088",
+      97
+    ]
+  ],
+  "raw_retrieval_seconds": 61.04455450000023,
+  "mitigated_retrieval_seconds": 8.611254600000393,
+  "mitigated_candidate_mean": 178.86316666666667,
+  "mitigated_candidate_p95": 323,
+  "mitigated_candidate_max": 572,
+  "label_metrics": {
+    "raw_same_mean": 0.644672862433197,
+    "raw_same_p10": 0.29350893697083724,
+    "raw_different_mean": 0.25379251328585717,
+    "raw_different_p10": 0.12844827586206897,
+    "clean_same_mean": 0.6330009996331276,
+    "clean_same_p10": 0.27378964941569284,
+    "clean_different_mean": 0.3540111721482464,
+    "clean_different_p10": 0.1551528878822197
+  },
+  "estimator_metrics": {
+    "examples": [
+      {
+        "notice_id_a": "N010018",
+        "notice_id_b": "N010020",
+        "label": "same",
+        "exact_jaccard": 0.23089983022071306,
+        "estimated_jaccard": 0.171875
+      },
+      {
+        "notice_id_a": "N007876",
+        "notice_id_b": "N008565",
+        "label": "different",
+        "exact_jaccard": 0.24904580152671757,
+        "estimated_jaccard": 0.21875
+      },
+      {
+        "notice_id_a": "N008464",
+        "notice_id_b": "N010231",
+        "label": "different",
+        "exact_jaccard": 0.14023732470334413,
+        "estimated_jaccard": 0.171875
+      },
+      {
+        "notice_id_a": "N000420",
+        "notice_id_b": "N001104",
+        "label": "different",
+        "exact_jaccard": 0.3983050847457627,
+        "estimated_jaccard": 0.390625
+      }
+    ],
+    "minhash_mae": 0.05039248138745673,
+    "minhash_p95_abs_error": 0.12645348837209303,
+    "minhash_max_abs_error": 0.21388978149100257
+  },
+  "tradeoff": [
+    [
+      0.15000000000000002,
+      0.006060606060606061,
+      1463.7305
+    ],
+    [
+      0.25,
+      0.0,
+      1463.7305
+    ],
+    [
+      0.35,
+      0.12121212121212122,
+      1463.7305
+    ],
+    [
+      0.45,
+      0.3669064748201439,
+      1463.7305
+    ],
+    [
+      0.55,
+      0.6529411764705882,
+      1463.7305
+    ],
+    [
+      0.65,
+      0.96,
+      1463.7305
+    ],
+    [
+      0.75,
+      1.0,
+      1463.7305
+    ],
+    [
+      0.8500000000000001,
+      1.0,
+      1463.7305
+    ],
+    [
+      0.9500000000000001,
+      1.0,
+      1463.7305
+    ]
+  ],
+  "missed_duplicate_cost_ratio": 10,
+  "label_candidate_recall": 0.37444444444444447,
+  "mitigated_label_candidate_recall": 0.22777777777777777,
+  "truth_opportunities_seen": 5776,
+  "common_bucket_limit": 100,
+  "indexed_lookup_seconds": 7.589999950141646e-05,
+  "forced_scan_lookup_seconds": 0.010844899999938207,
+  "indexed_rows_returned": 10,
+  "forced_scan_rows_examined": 192000,
+  "query_plan_indexed": [
+    [
+      3,
+      0,
+      0,
+      "SEARCH lsh_buckets USING INDEX idx_lsh_bucket (band=? AND bucket=?)"
+    ]
+  ],
+  "query_plan_forced_scan": [
+    [
+      2,
+      0,
+      0,
+      "SCAN lsh_buckets"
+    ]
+  ],
+  "stable_card_count": 5776,
+  "stable_alias_count": 12000
+}

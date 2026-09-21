@@ -1,0 +1,5 @@
+solution/results/*.sqlite
+solution/results/*.sqlite-*
+solution/results/*.log
+__pycache__/
+*.pyc

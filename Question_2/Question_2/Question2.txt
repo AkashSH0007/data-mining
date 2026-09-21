@@ -1,0 +1,32 @@
+Question2
+
+Context:
+
+Seabed aggregates public procurement notice scraped from 260 government portals . a single tender is routinely published on several portals, then re-published after a corrigendum, then re-published again by a nodal agency that reformats it . each copy carries a diff rent reference number , a different date and slightly different wording . there is no shared identifier anywhere . bidders pay for setubid because it promises:”one opportunity , one card .” toady the product shows a bidder the same road -widening contract nine times, and the bidder pays a subscription to see it nine times , meanwhile the operations team has been trying to fix this with a nightly job that compares every notice against every other notice. Last month that job ran for 31 hours and was killed . the corpus grows by roughly 4000 notice a week and the board has asked for the of product adds two constraints that she refuses to negotiate:
+
+""First-if we merge two tenders that were actually different, a bidder misses a deadline and sues us. if we fail to merge two tenders that were the same, a bidder  sees a duplicate card and grumbs. those two mistakes arev nhot the same size and I want to see that asymmetry in your settings as a number not as an adjective.
+
+second- the card id that a bidder bookmarks today must still point at the same opportunity next month, even though we will have absorbed new copies.if bookmarks break, we lose the account.""
+
+
+given:
+notices/-parquet files:
+labelled_pairs.csv-
+portal_profiles.md-
+
+
+on how question 2 is written> the parts below state what the system must achieve and what you must be able to prove about it. they deliberately do not name a technique, a library or a parameter. choosing the method-and defending it against the method you did not choose is part of what is being examined. any approach is admissible provided it meets the started cost ceiling and you can substantiate its behaviour with measurements on the given corpus.
+
+Section A- from an intractable comparison to a tractable one
+
+(a) Define what "similar" means here, mechanically. Before anything can be compared cheaply it must be comparable at all. commit to a way defined. and state the score. Yor choice involves at least one decision about how finely the text is decomposed, and at least one decision about which part of the text are signal and which are noise -- the corpus contains monetary amount, dates, references numbers and portal boilerplate, and it is for you to say what becomes of them. Defend both decisions with evidence from this corpus rather than from a reference: take a pair labelled same and a pair labelled different, show how the score separated them under two competing choices, and say which you adopted and what the adoption cost.
+(b) Trade exactness for space, deliberately. Retaining the exact representation for the whole corpus is not affordable so you will hold a reduced form of each notice and accept that the similarity you compute from it is an estimate. fix the size of that reduced form before you implement it, by stating the estimation accuracy the application needs arguing from that requirement to a size. then close the loop: measure the released error against labelled_pairs.csv and report whether the estimator behaved as your argument predicted, including where it did not. A size adopted because it is a round number, or because a tutorial used it, earns noting here even if the system works.
+(c) Make retrieval sublinear, and price the risk. The nightly budget rules out scoring each notice against the corpus, so you need way to retrieve, for any notice, a short candidate list that is very likely to already contain its true duplicates. build one. Whatever you build ill expose a tunable tension between how reliably a genuinely similar pair is retrieved and how much work the candidate lists create; your task is that decision explicit rather than incidental. Characterise, as a function of true similarity, the probability that a pair survives to the candidate stage; plot it; and mark on the operating point you chose. then justify that point in the head of products terms - her two failure odes have different costs, and your answer should show where that ratio entered your settings.
+
+section B-making it a database problem, not a script
+(d) give the retrieval structure a home and access path. Whatever your scheme in (c) consults at lookup time must live as relational data that survives a process restart and can be queried by the application - not in a python object that dies with the job. Design that schema. Then make a considered choice of access method for the lookup, and justify it by reference to how the candidate method physically locate rows, naming at least one alternative you rejected and why it loses here. Support the argument with measurements rather than assertions: the planner's chosen path, the rows actually examined, and wall-cl0ck time, with the rejected alternative forced for comparison.
+
+(e) Find the place where the design betrays you. Run your retrieval over the full corpus and look at the work is distributed across notices rather than at its total. It will be badly uneven, and a small part of the corpus will be responsible for a disproportionate share of the nightly cost. Locate that part empirically; portal_profiles.md will help you interpret what you find. Then do three things: explain in mechanical terms why this property of the data interacts with your design to produce the distribution you observe; quantify what it costs you against the 20-minte budget; and mitigate it. Report the distribution and the runtime before and after and state plainly what the mitigation cost you in retrieval quantity, measured on the labelled pairs. A mitigation whose price is not measured is not accepted.
+
+How this is marked
+For each part, roughly on third of the marks are for the working system, one third for the measurement that shows it works, and one third for the judgement shown in choosing between reasonable alternatives. partial work that is honestly described scores well. there is no single correct design.

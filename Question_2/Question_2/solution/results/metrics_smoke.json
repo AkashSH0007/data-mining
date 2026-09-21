@@ -1,0 +1,108 @@
+{
+  "notices": 200,
+  "labels": 900,
+  "build_seconds": 1.4976045999974303,
+  "signature_size": 64,
+  "bands": 16,
+  "rows_per_band": 4,
+  "candidate_mean": 23.94,
+  "candidate_p95": 49,
+  "candidate_max": 62,
+  "hot_portals": [
+    [
+      "P094",
+      25
+    ],
+    [
+      "P002",
+      18
+    ],
+    [
+      "P001",
+      15
+    ],
+    [
+      "P003",
+      14
+    ],
+    [
+      "P006",
+      13
+    ],
+    [
+      "P005",
+      13
+    ],
+    [
+      "P004",
+      12
+    ],
+    [
+      "P020",
+      8
+    ],
+    [
+      "P240",
+      6
+    ],
+    [
+      "P136",
+      5
+    ],
+    [
+      "P046",
+      3
+    ],
+    [
+      "P042",
+      2
+    ],
+    [
+      "P211",
+      2
+    ],
+    [
+      "P172",
+      2
+    ],
+    [
+      "P071",
+      2
+    ]
+  ],
+  "raw_retrieval_seconds": 0.009296500000345986,
+  "mitigated_retrieval_seconds": 0.0096875999988697,
+  "mitigated_candidate_mean": 23.94,
+  "mitigated_candidate_p95": 49,
+  "mitigated_candidate_max": 62,
+  "label_metrics": {},
+  "estimator_metrics": {},
+  "tradeoff": [],
+  "missed_duplicate_cost_ratio": 10,
+  "label_candidate_recall": null,
+  "mitigated_label_candidate_recall": null,
+  "truth_opportunities_seen": 200,
+  "common_bucket_limit": 100,
+  "indexed_lookup_seconds": 1.3299999409355223e-05,
+  "forced_scan_lookup_seconds": 7.550000009359792e-05,
+  "indexed_rows_returned": 3,
+  "forced_scan_rows_examined": 3200,
+  "query_plan_indexed": [
+    [
+      3,
+      0,
+      0,
+      "SEARCH lsh_buckets USING INDEX idx_lsh_bucket (band=? AND bucket=?)"
+    ]
+  ],
+  "query_plan_forced_scan": [
+    [
+      2,
+      0,
+      0,
+      "SCAN lsh_buckets"
+    ]
+  ],
+  "stable_card_count": 200,
+  "stable_alias_count": 200
+}
